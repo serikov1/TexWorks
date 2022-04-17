@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  15 APR 2022 16:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  15 APR 2022 23:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./osmos.tex
-(osmos.tex
+**"./lab 2-1-6.tex"
+(lab 2-1-6.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (D:\MiKTex\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -807,8 +807,8 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box72
-) (osmos.aux)
-\openout1 = `osmos.aux'.
+) (lab 2-1-6.aux)
+\openout1 = `"lab 2-1-6.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -914,23 +914,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
-<photo_1.png, id=11, 118.041pt x 145.7445pt>
-File: photo_1.png Graphic file (type png)
-<use photo_1.png>
-Package pdftex.def Info: photo_1.png  used on input line 82.
-(pdftex.def)             Requested size: 118.0407pt x 145.74414pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--96
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
+ []
+
+<scheme.png, id=11, 1168.365pt x 635.37375pt>
+File: scheme.png Graphic file (type png)
+<use scheme.png>
+Package pdftex.def Info: scheme.png  used on input line 78.
+(pdftex.def)             Requested size: 426.79134pt x 232.09854pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+[1 <./scheme.png>]
+Overfull \hbox (6.31221pt too wide) in paragraph at lines 97--98
+[]\T2A/cmr/m/n/12 Сделаем несколь-ко за-ме-ча-ний. Преж-де все-го от-ме-тим, чт
+о в про-цес-се Джо-у-ля^^UТомсона
  []
 
 
@@ -938,63 +949,371 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
-[1 <./photo_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 99--109
+[2]
+
+LaTeX Warning: Command \CYRD invalid in math mode on input line 124.
+
+
+LaTeX Warning: Command \CYRT invalid in math mode on input line 124.
+
+Missing character: There is no Д in font cmr8!
+Missing character: There is no Т in font cmr8!
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+LaTeX Warning: Command \cyri invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 126.
+
+Missing character: There is no и in font cmr8!
+Missing character: There is no н in font cmr8!
+Missing character: There is no в in font cmr8!
+Missing character: There is no к in font cmr8!
+Missing character: There is no р in font cmr8!
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 126.
+
+Missing character: There is no и in font cmr8!
+Missing character: There is no н in font cmr8!
+Missing character: There is no в in font cmr8!
+Missing character: There is no К in font cmr12!
+Missing character: There is no к in font cmr8!
+Missing character: There is no р in font cmr8!
+Missing character: There is no К in font cmr12!
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 126.
+
+Missing character: There is no и in font cmr8!
+Missing character: There is no н in font cmr8!
+Missing character: There is no в in font cmr8!
+Missing character: There is no К in font cmr12!
+Missing character: There is no к in font cmr8!
+Missing character: There is no р in font cmr8!
+Missing character: There is no К in font cmr12!
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 126.
+
+Missing character: There is no и in font cmr8!
+Missing character: There is no н in font cmr8!
+Missing character: There is no в in font cmr8!
+Missing character: There is no К in font cmr12!
+Missing character: There is no к in font cmr8!
+Missing character: There is no р in font cmr8!
+Missing character: There is no К in font cmr12!
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 126.
+
+Missing character: There is no и in font cmr8!
+Missing character: There is no н in font cmr8!
+Missing character: There is no в in font cmr8!
+Missing character: There is no К in font cmr12!
+Missing character: There is no к in font cmr8!
+Missing character: There is no р in font cmr8!
+Missing character: There is no К in font cmr12!
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 126.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 126.
+
+Missing character: There is no и in font cmr8!
+Missing character: There is no н in font cmr8!
+Missing character: There is no в in font cmr8!
+Missing character: There is no К in font cmr12!
+Missing character: There is no к in font cmr8!
+Missing character: There is no р in font cmr8!
+Missing character: There is no К in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
+LaTeX Warning: Command \cyri invalid in math mode on input line 128.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 128.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 128.
+
+Missing character: There is no и in font cmr8!
+Missing character: There is no н in font cmr8!
+Missing character: There is no в in font cmr8!
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 128.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 128.
+
+Missing character: There is no к in font cmr8!
+Missing character: There is no р in font cmr8!
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
-<photo_2.png, id=21, 353.52075pt x 449.2785pt>
-File: photo_2.png Graphic file (type png)
-<use photo_2.png>
-Package pdftex.def Info: photo_2.png  used on input line 131.
-(pdftex.def)             Requested size: 424.22278pt x 539.13148pt.
-[2] [3 <./photo_2.png>] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
 
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 145.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 145.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 145.
+
+Missing character: There is no с in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no с in font cmr12!
+[3]
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 148.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 148.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 148.
+
+Missing character: There is no с in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no с in font cmr12!
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 152.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 152.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 152.
+
+Missing character: There is no с in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no с in font cmr12!
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 154.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 154.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 154.
+
+
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 154.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 154.
+
+Missing character: There is no м in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no К in font cmr12!
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 156.
+
+Missing character: There is no К in font cmr12!
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 159.
+
+Missing character: There is no С in font cmr12!
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 159.
+
+Missing character: There is no С in font cmr12!
+
+Overfull \hbox (13.10907pt too wide) in paragraph at lines 157--160
+\T2A/cmr/m/n/12 Это из-ме-не-ние тем-пе-ра-ту-ры ни-чтож-но ма-ло по срав-не-ни
+ю с из-ме-ря-е-мым эф-фек-том (несколь-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--160
 
  []
 
-[7] (osmos.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 166.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 166.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 166.
+
+Missing character: There is no с in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no с in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+[5]
+<lab 2_1_6.png, id=38, 462.528pt x 346.896pt>
+File: lab 2_1_6.png Graphic file (type png)
+<use lab 2_1_6.png>
+Package pdftex.def Info: lab 2_1_6.png  used on input line 214.
+(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
+ [6 <./lab 2_1_6.png>] [7] (lab 2-1-6.aux) ) 
 Here is how much of TeX's memory you used:
- 26355 strings out of 478582
- 648963 string characters out of 2860759
- 1096296 words of memory out of 3000000
- 44114 multiletter control sequences out of 15000+600000
+ 26356 strings out of 478582
+ 649090 string characters out of 2860759
+ 1072302 words of memory out of 3000000
+ 44115 multiletter control sequences out of 15000+600000
  477914 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,7n,103p,902b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\voron\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2
-a/dpi600\larm0800.pk> <C:\Users\voron\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\larm1200.pk> <C:\Users\voron\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\voron\AppData\Local\MiKTeX\fonts/pk/ljf
-our/lh/lh-t2a/dpi600\lacc1200.pk><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmex
-10.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/MiKTex/fonts/ty
-pe1/public/amsfonts/cm/cmmi6.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmmi
-8.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MiKTex/fonts/type
-1/public/amsfonts/cm/cmr8.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on osmos.pdf (8 pages, 297395 bytes).
+ 99i,8n,103p,1420b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\voron\AppData\Local\MiKT
+eX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\voron\AppData\Local\
+MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\voron\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\voron\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><D:/MiKTex/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmm
+i12.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/MiKTex/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmr8
+.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MiKTex/fonts/type
+1/public/amsfonts/cm/cmsy8.pfb><D:/MiKTex/fonts/type1/public/amsfonts/symbols/m
+sam10.pfb>
+Output written on "lab 2-1-6.pdf" (8 pages, 258650 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
+ 255 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
