@@ -1,42 +1,49 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.14)  15 APR 2022 23:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.15)  21 APR 2022 23:22
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **"./lab 2-1-6.tex"
 (lab 2-1-6.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24> (D:\MiKTex\tex/latex/base\article.cls
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-12>
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/base\artic
+le.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(D:\MiKTex\tex/latex/base\size12.clo
+
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/base\size1
+2.clo
 File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(D:\MiKTex\tex/latex/geometry\geometry.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/geometry\g
+eometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(D:\MiKTex\tex/latex/graphics\keyval.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/graphics\k
+eyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(D:\MiKTex\tex/generic/iftex\ifvtex.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/iftex\if
+vtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (D:\MiKTex\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/iftex\if
+tex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count193
-\Gm@cntv=\count194
-\c@Gm@tempcnt=\count195
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -46,15 +53,21 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen145
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks17
- (D:\MiKTex\tex/latex/geometry\geometry.cfg))
-(D:\MiKTex\tex/latex/base\fontenc.sty
+
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/geometry\g
+eometry.cfg))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/base\fonte
+nc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
- (D:\MiKTex\tex/latex/cyrillic\t2aenc.def
+
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t
+2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-(D:\MiKTex\tex/latex/base\t2aenc.dfu
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aen
+c.dfu
 File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -255,31 +268,40 @@ File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
 ))
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 12.
- (D:\MiKTex\tex/latex/cyrillic\t2acmr.fd
+
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t
+2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)) (D:\MiKTex\tex/latex/base\inputenc.sty
+))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/base\input
+enc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
 )
-(D:\MiKTex\tex/generic/babel\babel.sty
-Package: babel 2022/02/26 3.73 The Babel package
-\babel@savecnt=\count196
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/babel\ba
+bel.sty
+Package: babel 2021/11/08 3.66 The Babel package
+\babel@savecnt=\count194
 \U@D=\dimen147
 \l@unhyphenated=\language79
 
-(D:\MiKTex\tex/generic/babel\txtbabel.def)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/babel\tx
+tbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count197
+\bbl@dirlevel=\count195
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(D:\MiKTex\tex/latex/arabi\bblopts.cfg
+
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblo
+pts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(D:\MiKTex\tex/latex/babel-english\english.ldf
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/babel-engl
+ish\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -288,64 +310,85 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
 )
-(D:\MiKTex\tex/latex/babel-russian\russianb.ldf
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/babel-russ
+ian\russianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
-(D:\MiKTex\tex/latex/graphics\graphicx.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/graphics\g
+raphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(D:\MiKTex\tex/latex/graphics\graphics.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/graphics\g
+raphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(D:\MiKTex\tex/latex/graphics\trig.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/graphics\t
+rig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(D:\MiKTex\tex/latex/graphics-cfg\graphics.cfg
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/graphics-c
+fg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(D:\MiKTex\tex/latex/graphics-def\pdftex.def
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/graphics-d
+ef\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
 )
-(D:\MiKTex\tex/latex/pgfplots\pgfplots.sty
-(D:\MiKTex\tex/generic/pgfplots\pgfplots.revision.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\p
+gfplots.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 
-(D:\MiKTex\tex/latex/pgf/frontendlayer\tikz.sty
-(D:\MiKTex\tex/latex/pgf/basiclayer\pgf.sty
-(D:\MiKTex\tex/latex/pgf/utilities\pgfrcs.sty
-(D:\MiKTex\tex/generic/pgf/utilities\pgfutil-common.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgf/fronte
+ndlayer\tikz.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basicl
+ayer\pgf.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilit
+ies\pgfrcs.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/util
+ities\pgfutil-common.tex
 \pgfutil@everybye=\toks20
 \pgfutil@tempdima=\dimen150
 \pgfutil@tempdimb=\dimen151
 
-(D:\MiKTex\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
-(D:\MiKTex\tex/generic/pgf/utilities\pgfutil-latex.def
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/util
+ities\pgfutil-common-lists.tex))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/util
+ities\pgfutil-latex.def
 \pgfutil@abb=\box50
 )
-(D:\MiKTex\tex/generic/pgf/utilities\pgfrcs.code.tex
-(D:\MiKTex\tex/generic/pgf\pgf.revision.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/util
+ities\pgfrcs.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.
+revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
-(D:\MiKTex\tex/latex/pgf/basiclayer\pgfcore.sty
-(D:\MiKTex\tex/latex/pgf/systemlayer\pgfsys.sty
-(D:\MiKTex\tex/generic/pgf/systemlayer\pgfsys.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basicl
+ayer\pgfcore.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgf/system
+layer\pgfsys.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syst
+emlayer\pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
-(D:\MiKTex\tex/generic/pgf/utilities\pgfkeys.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/util
+ities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks21
 \pgfkeys@temptoks=\toks22
 
-(D:\MiKTex\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/util
+ities\pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks23
 ))
 \pgf@x=\dimen152
@@ -360,38 +403,45 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@yd=\dimen161
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count198
-\c@pgf@countb=\count199
-\c@pgf@countc=\count266
-\c@pgf@countd=\count267
+\c@pgf@counta=\count196
+\c@pgf@countb=\count197
+\c@pgf@countc=\count198
+\c@pgf@countd=\count199
 \t@pgf@toka=\toks24
 \t@pgf@tokb=\toks25
 \t@pgf@tokc=\toks26
-\pgf@sys@id@count=\count268
+\pgf@sys@id@count=\count266
 
-(D:\MiKTex\tex/generic/pgf/systemlayer\pgf.cfg
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syst
+emlayer\pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(D:\MiKTex\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syst
+emlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(D:\MiKTex\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syst
+emlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(D:\MiKTex\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syst
+emlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count269
-\pgfsyssoftpath@bigbuffer@items=\count270
+\pgfsyssoftpath@smallbuffer@items=\count267
+\pgfsyssoftpath@bigbuffer@items=\count268
 )
-(D:\MiKTex\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syst
+emlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(D:\MiKTex\tex/latex/xcolor\xcolor.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xco
+lor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
-(D:\MiKTex\tex/latex/graphics-cfg\color.cfg
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/graphics-c
+fg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
@@ -405,34 +455,51 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcore.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 
-(D:\MiKTex\tex/generic/pgf/math\pgfmath.code.tex
-(D:\MiKTex\tex/generic/pgf/math\pgfmathcalc.code.tex
-(D:\MiKTex\tex/generic/pgf/math\pgfmathutil.code.tex)
-(D:\MiKTex\tex/generic/pgf/math\pgfmathparser.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmath.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathcalc.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathutil.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen162
-\pgfmath@count=\count271
+\pgfmath@count=\count269
 \pgfmath@box=\box51
 \pgfmath@toks=\toks27
 \pgfmath@stack@operand=\toks28
 \pgfmath@stack@operation=\toks29
 )
-(D:\MiKTex\tex/generic/pgf/math\pgfmathfunctions.code.tex
-(D:\MiKTex\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
-(D:\MiKTex\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex)
-(D:\MiKTex\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
-(D:\MiKTex\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex)
-(D:\MiKTex\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
-(D:\MiKTex\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
-(D:\MiKTex\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
-(D:\MiKTex\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)))
-(D:\MiKTex\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count272
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathfunctions.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathfunctions.basic.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathfunctions.trigonometric.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathfunctions.random.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathfunctions.comparison.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathfunctions.base.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathfunctions.round.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathfunctions.misc.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathfunctions.integerarithmetics.code.tex)))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count270
 ))
-(D:\MiKTex\tex/generic/pgf/math\pgfint.code.tex)
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfint.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen163
 \pgf@picmaxx=\dimen164
@@ -449,106 +516,135 @@ File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@zx=\dimen175
 \pgf@zy=\dimen176
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@path@lastx=\dimen177
 \pgf@path@lasty=\dimen178
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@shorten@end@additional=\dimen179
 \pgf@shorten@start@additional=\dimen180
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box52
 \pgf@hbox=\box53
 \pgf@layerbox@main=\box54
-\pgf@picture@serial@count=\count273
+\pgf@picture@serial@count=\count271
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen181
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen182
 \pgf@pt@y=\dimen183
 \pgf@pt@temp=\dimen184
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowsep=\dimen185
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen186
-\pgf@sys@shading@range@num=\count274
-\pgf@shadingcount=\count275
+\pgf@sys@shading@range@num=\count272
+\pgf@shadingcount=\count273
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfexternal@startupbox=\box55
 ))
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(D:\MiKTex\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basi
+clayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(D:\MiKTex\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modu
+les\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodeparttextbox=\box56
 )
-(D:\MiKTex\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modu
+les\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(D:\MiKTex\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compat
+ibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@nodesepstart=\dimen187
 \pgf@nodesepend=\dimen188
 )
-(D:\MiKTex\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compat
+ibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(D:\MiKTex\tex/latex/pgf/utilities\pgffor.sty
-(D:\MiKTex\tex/latex/pgf/utilities\pgfkeys.sty
-(D:\MiKTex\tex/generic/pgf/utilities\pgfkeys.code.tex))
-(D:\MiKTex\tex/latex/pgf/math\pgfmath.sty
-(D:\MiKTex\tex/generic/pgf/math\pgfmath.code.tex))
-(D:\MiKTex\tex/generic/pgf/utilities\pgffor.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilit
+ies\pgffor.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilit
+ies\pgfkeys.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/util
+ities\pgfkeys.code.tex))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\p
+gfmath.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmath.code.tex))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/util
+ities\pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
-(D:\MiKTex\tex/generic/pgf/math\pgfmath.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math
+\pgfmath.code.tex)
 \pgffor@iter=\dimen189
 \pgffor@skip=\dimen190
 \pgffor@stack=\toks30
 \pgffor@toks=\toks31
 ))
-(D:\MiKTex\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fron
+tendlayer/tikz\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
-(D:\MiKTex\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libr
+aries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count276
+\pgf@plot@mark@count=\count274
 \pgfplotmarksize=\dimen191
 )
 \tikz@lastx=\dimen192
@@ -563,89 +659,124 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@figbox@bg=\box58
 \tikz@tempbox=\box59
 \tikz@tempbox@bg=\box60
-\tikztreelevel=\count277
-\tikznumberofchildren=\count278
-\tikznumberofcurrentchild=\count279
-\tikz@fig@count=\count280
+\tikztreelevel=\count275
+\tikznumberofchildren=\count276
+\tikznumberofcurrentchild=\count277
+\tikz@fig@count=\count278
 
-(D:\MiKTex\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modu
+les\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count281
-\pgfmatrixcurrentcolumn=\count282
-\pgf@matrix@numberofcolumns=\count283
+\pgfmatrixcurrentrow=\count279
+\pgfmatrixcurrentcolumn=\count280
+\pgf@matrix@numberofcolumns=\count281
 )
-\tikz@expandcount=\count284
+\tikz@expandcount=\count282
 
-(D:\MiKTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code
-.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (D:\MiKTex\tex/generic/pgfplots\pgfplots.code.tex
-(D:\MiKTex\tex/generic/pgfplots\pgfplotscore.code.tex
+)))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplots.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplotscore.code.tex
 \t@pgfplots@toka=\toks32
 \t@pgfplots@tokb=\toks33
 \t@pgfplots@tokc=\toks34
 \pgfplots@tmpa=\dimen256
-\c@pgfplots@coordindex=\count285
-\c@pgfplots@scanlineindex=\count286
+\c@pgfplots@coordindex=\count283
+\c@pgfplots@scanlineindex=\count284
 
-(D:\MiKTex\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
-(D:\MiKTex\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
-(D:\MiKTex\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.t
-ex (D:\MiKTex\tex/generic/pgf/libraries\pgflibraryfpu.code.tex))
-(D:\MiKTex\tex/generic/pgfplots/util\pgfplotsutil.code.tex
-(D:\MiKTex\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex)
-(D:\MiKTex\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex
-) (D:\MiKTex\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count287
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/sys\pgfplotssysgeneric.code.tex))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/libs\pgfplotslibrary.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libr
+aries\pgflibraryfpu.code.tex))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/util\pgfplotsutil.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/liststructure\pgfplotsliststructure.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/liststructure\pgfplotsliststructureext.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count285
 )
-(D:\MiKTex\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex)
-(D:\MiKTex\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count288
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/liststructure\pgfplotsmatrix.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count286
 \t@pgfplotstable@a=\toks35
 )
-(D:\MiKTex\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex)
-(D:\MiKTex\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
-(D:\MiKTex\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex))
-(D:\MiKTex\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
-(D:\MiKTex\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count289
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/liststructure\pgfplotsdeque.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/util\pgfplotsbinary.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/util\pgfplotsbinary.data.code.tex))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/util\pgfplotsutil.verb.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count287
 
-(D:\MiKTex\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdfte
-x.def))) (D:\MiKTex\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
-(D:\MiKTex\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
-(D:\MiKTex\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
-(D:\MiKTex\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
-(D:\MiKTex\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
-(D:\MiKTex\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
-(D:\MiKTex\tex/generic/pgfplots\pgfplots.scaling.code.tex)
-(D:\MiKTex\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
-(D:\MiKTex\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
-(D:\MiKTex\tex/generic/pgfplots\pgfplots.markers.code.tex)
-(D:\MiKTex\tex/generic/pgfplots\pgfplotsticks.code.tex)
-(D:\MiKTex\tex/generic/pgfplots\pgfplots.paths.code.tex)
-(D:\MiKTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.
-code.tex (D:\MiKTex\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/util\pgfplotscolormap.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/util\pgfplotscolor.code.tex))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplotsstackedplots.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplotsplothandlers.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplotsmeshplothandler.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplotsmeshplotimage.code.tex)))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplots.scaling.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplotscoordprocessing.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplots.errorbars.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplots.markers.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplotsticks.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+\pgfplots.paths.code.tex)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modu
+les\pgfmoduledecorations.code.tex
 \pgfdecoratedcompleteddistance=\dimen257
 \pgfdecoratedremainingdistance=\dimen258
 \pgfdecoratedinputsegmentcompleteddistance=\dimen259
 \pgfdecoratedinputsegmentremainingdistance=\dimen260
 \pgf@decorate@distancetomove=\dimen261
-\pgf@decorate@repeatstate=\count290
+\pgf@decorate@repeatstate=\count288
 \pgfdecorationsegmentamplitude=\dimen262
 \pgfdecorationsegmentlength=\dimen263
 )
 \tikz@lib@dec@box=\box61
 )
-(D:\MiKTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.
-pathmorphing.code.tex
-(D:\MiKTex\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorp
-hing.code.tex))
-(D:\MiKTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.
-pathreplacing.code.tex
-(D:\MiKTex\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathrepl
-acing.code.tex))
-(D:\MiKTex\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count291
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libr
+aries/decorations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libr
+aries/decorations\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots
+/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count289
 \pgfplots@xmin@reg=\dimen264
 \pgfplots@xmax@reg=\dimen265
 \pgfplots@ymin@reg=\dimen266
@@ -653,39 +784,47 @@ acing.code.tex))
 \pgfplots@zmin@reg=\dimen268
 \pgfplots@zmax@reg=\dimen269
 )
-(D:\MiKTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.co
-de.tex
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
 File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
- (D:\MiKTex\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libr
+aries\pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(D:\MiKTex\tex/latex/amsmath\amsmath.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\am
+smath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(D:\MiKTex\tex/latex/amsmath\amstext.sty
+
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\am
+stext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(D:\MiKTex\tex/latex/amsmath\amsgen.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\am
+sgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks36
 \ex@=\dimen270
 ))
-(D:\MiKTex\tex/latex/amsmath\amsbsy.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\am
+sbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen271
 )
-(D:\MiKTex\tex/latex/amsmath\amsopn.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\am
+sopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count292
+\inf@bad=\count290
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count293
-\leftroot@=\count294
+\uproot@=\count291
+\leftroot@=\count292
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count295
-\DOTSCASE@=\count296
+\classnum@=\count293
+\DOTSCASE@=\count294
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -694,15 +833,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen272
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count297
-\c@MaxMatrixCols=\count298
+\macc@depth=\count295
+\c@MaxMatrixCols=\count296
 \dotsspace@=\muskip16
-\c@parentequation=\count299
-\dspbrk@lvl=\count300
+\c@parentequation=\count297
+\dspbrk@lvl=\count298
 \tag@help=\toks37
-\row@=\count301
-\column@=\count302
-\maxfields@=\count303
+\row@=\count299
+\column@=\count300
+\maxfields@=\count301
 \andhelp@=\toks38
 \eqnshift@=\dimen273
 \alignsep@=\dimen274
@@ -717,7 +856,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 )
-(D:\MiKTex\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\a
+msfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -725,10 +865,12 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(D:\MiKTex\tex/latex/amsfonts\amssymb.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\a
+mssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(D:\MiKTex\tex/latex/amscls\amsthm.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/amscls\ams
+thm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks41
 \thm@bodyfont=\toks42
@@ -740,25 +882,33 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip54
 \dth@everypar=\toks46
 )
-(D:\MiKTex\tex/latex/mathtools\mathtools.sty
-Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\
+mathtools.sty
+Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
 
-(D:\MiKTex\tex/latex/tools\calc.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc
+.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count304
-\calc@Bcount=\count305
+\calc@Acount=\count302
+\calc@Bcount=\count303
 \calc@Adimen=\dimen279
 \calc@Bdimen=\dimen280
 \calc@Askip=\skip55
 \calc@Bskip=\skip56
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count306
+\calc@Ccount=\count304
 \calc@Cskip=\skip57
-) (D:\MiKTex\tex/latex/mathtools\mhsetup.sty
+)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\
+mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count307
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count305
 \l_MT_multwidth_dim=\dimen281
 \origjot=\skip58
 \l_MT_shortvdotswithinadjustabove_dim=\dimen282
@@ -769,43 +919,48 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \l_MT_below_shortintertext_sep=\dimen287
 \xmathstrut@box=\box64
 \xmathstrut@dim=\dimen288
-) (D:\MiKTex\tex/latex/tools\longtable.sty
+)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/tools\long
+table.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTleft=\skip59
 \LTright=\skip60
 \LTpre=\skip61
 \LTpost=\skip62
-\LTchunksize=\count308
+\LTchunksize=\count306
 \LTcapwidth=\dimen289
 \LT@head=\box65
 \LT@firsthead=\box66
 \LT@foot=\box67
 \LT@lastfoot=\box68
 \LT@gbox=\box69
-\LT@cols=\count309
-\LT@rows=\count310
-\c@LT@tables=\count311
-\c@LT@chunks=\count312
+\LT@cols=\count307
+\LT@rows=\count308
+\c@LT@tables=\count309
+\c@LT@chunks=\count310
 \LT@p@ftn=\toks47
 )
-(D:\MiKTex\tex/latex/float\float.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/float\floa
+t.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count313
+\c@float@type=\count311
 \float@exts=\toks48
 \float@box=\box70
 \@float@everytoks=\toks49
 \@floatcapt=\box71
 )
-(D:\MiKTex\tex/latex/multirow\multirow.sty
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/multirow\m
+ultirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip63
-\multirow@cntb=\count314
+\multirow@cntb=\count312
 \multirow@dima=\skip64
 \bigstrutjot=\dimen290
 )
-(D:\MiKTex\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count315
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\
+l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count313
 \l__pdf_internal_box=\box72
 ) (lab 2-1-6.aux)
 \openout1 = `"lab 2-1-6.aux"'.
@@ -862,25 +1017,30 @@ LaTeX Font Info:    ... okay on input line 34.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Info: Redefining \th on input line 34.
-(D:\MiKTex\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/context/base/mki
+i\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count316
+\scratchcounter=\count314
 \scratchdimen=\dimen291
 \scratchbox=\box73
-\nofMPsegments=\count317
-\nofMParguments=\count318
+\nofMPsegments=\count315
+\nofMParguments=\count316
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count319
+\MPscratchCnt=\count317
 \MPscratchDim=\dimen292
-\MPnumerator=\count320
-\makeMPintoPDFobject=\count321
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
 \everyMPtoPDFconversion=\toks51
-) (D:\MiKTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-p
+kg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(D:\MiKTex\tex/latex/00miktex\epstopdf-sys.cfg
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\e
+pstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package pgfplots notification 'compat/show suggested version=true': you might b
@@ -893,17 +1053,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--54
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
 
-(D:\MiKTex\tex/latex/amsfonts\umsa.fd
+
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\u
+msa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
 
- (D:\MiKTex\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-[1
 
-{C:/Users/voron/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(C:\Users\Александр\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\u
+msb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/Александр/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
@@ -941,11 +1104,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 [1 <./scheme.png>]
 Overfull \hbox (6.31221pt too wide) in paragraph at lines 97--98
 []\T2A/cmr/m/n/12 ������� �������-�� ��-��-��-���. ����-�� ���-�� ��-��-���, ��
-� � ���-���-�� ���-�-��^^U�������
+� � ���-���-�� ���-�-���������
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
 
  []
 
@@ -1163,6 +1331,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--134
 
  []
 
+[3]
 
 LaTeX Warning: Command \cyrs invalid in math mode on input line 145.
 
@@ -1175,7 +1344,6 @@ LaTeX Warning: Command \cyrs invalid in math mode on input line 145.
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
-[3]
 
 LaTeX Warning: Command \cyrs invalid in math mode on input line 148.
 
@@ -1293,25 +1461,30 @@ Package pdftex.def Info: lab 2_1_6.png  used on input line 214.
 (pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
  [6 <./lab 2_1_6.png>] [7] (lab 2-1-6.aux) ) 
 Here is how much of TeX's memory you used:
- 26356 strings out of 478582
- 649090 string characters out of 2860759
- 1072302 words of memory out of 3000000
- 44115 multiletter control sequences out of 15000+600000
- 477914 words of font info for 51 fonts, out of 8000000 for 9000
+ 26150 strings out of 478699
+ 660163 string characters out of 2840799
+ 1078432 words of memory out of 3000000
+ 43808 multiletter control sequences out of 15000+600000
+ 412085 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,8n,103p,1420b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\voron\AppData\Local\MiKT
-eX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\voron\AppData\Local\
-MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\voron\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\voron\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><D:/MiKTex/fonts/ty
-pe1/public/amsfonts/cm/cmex10.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmm
-i12.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/MiKTex/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmr8
-.pfb><D:/MiKTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MiKTex/fonts/type
-1/public/amsfonts/cm/cmsy8.pfb><D:/MiKTex/fonts/type1/public/amsfonts/symbols/m
-sam10.pfb>
-Output written on "lab 2-1-6.pdf" (8 pages, 258650 bytes).
+ 99i,8n,103p,1420b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Александр\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Але�
+�сандр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> 
+<C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
+600\labx1200.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/ljf
+our/lh/lh-t2a/dpi600\lacc1200.pk><C:/Users/Александр/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Алексан
+др/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
+:/Users/Александр/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi8.pfb><C:/Users/Александр/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Александр/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Алек�
+�андр/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Users/Александр/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmsy8.pfb><C:/Users/Александр/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "lab 2-1-6.pdf" (8 pages, 258744 bytes).
 PDF statistics:
  255 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
