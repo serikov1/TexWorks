@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.15)  22 APR 2022 09:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.15)  22 APR 2022 22:49
 entering extended mode
 **"./lab 2-1-6.tex"
 (lab 2-1-6.tex
@@ -1154,30 +1154,6 @@ Missing character: There is no ñ in font cmr12!
 Missing character: There is no ì in font cmr12!
 Missing character: There is no ñ in font cmr12!
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 148.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 148.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 148.
-
-Missing character: There is no ñ in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ñ in font cmr12!
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 152.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 152.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 152.
-
-Missing character: There is no ñ in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ñ in font cmr12!
-
 LaTeX Warning: Command \cyrm invalid in math mode on input line 154.
 
 
@@ -1196,10 +1172,6 @@ Missing character: There is no ì in font cmr12!
 Missing character: There is no î in font cmr12!
 Missing character: There is no ë in font cmr12!
 Missing character: There is no ü in font cmr12!
-Missing character: There is no Ê in font cmr12!
-
-LaTeX Warning: Command \CYRK invalid in math mode on input line 156.
-
 Missing character: There is no Ê in font cmr12!
 
 LaTeX Warning: Command \CYRS invalid in math mode on input line 159.
@@ -1293,7 +1265,7 @@ cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ÐÐ»ÐµÐºÑ
 fb><C:/Users/ÐÐ»ÐµÐºÑÐ°Ð½Ð´Ñ€/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmsy8.pfb><C:/Users/ÐÐ»ÐµÐºÑÐ°Ð½Ð´Ñ€/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "lab 2-1-6.pdf" (8 pages, 257192 bytes).
+Output written on "lab 2-1-6.pdf" (8 pages, 257420 bytes).
 PDF statistics:
  255 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

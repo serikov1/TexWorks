@@ -66,8 +66,8 @@
 	
 	\textbf{Цель работы: }\\
 	
-	1) измерение осмотического давления при разной
-	концентрации желтой кровяной соли; 2) проверка закона Вант-Гоффа.\\
+	1) Измерение осмотического давления при разной
+	концентрации желтой кровяной соли; 2) Проверка закона Вант-Гоффа.\\
 	
 	
 	\textbf{Теоретические сведения: } \\
@@ -88,7 +88,9 @@
 	превышает 2 атм,а в клетках многих растений его величина составляет 5–20 атм, что обеспечивает поступление воды из почвы на большую высоту (например,
 	к вершинам деревьев). Силу осмотического давления ощущают пловцы, открывая глаза в воде (особенно в пресной): внутриглазное давление повышается из-за поступления воды сквозь роговую оболочку.
 	Осмотическое давление подчиняется формуле (закон Вант-Гоффа):
-$$ P_{\text{осм}} = n\cdot k_{\text{б}}\cdot T $$
+	\begin{equation}
+ P_{\text{осм}} = n\cdot k_{\text{б}}\cdot T 
+\end{equation}
 	где	$n$ — число молекул растворенного вещества в единице объема,
 	$ k_{\text{б}}$ — постоянная Больцмана,
 	$T$ — абсолютная температура. Данная формула позволяет по известной величине
@@ -117,7 +119,9 @@ $$ P_{\text{осм}} = n\cdot k_{\text{б}}\cdot T $$
     В работе измеряется осмотическое давление водного раствора
     желтой кровяной соли $K_4Fe(CN)_6$, при нескольких значениях концентрации и проверяется справедливость закона Вант-Гоффа.
     Молекулы желтой кровяной соли при растворении диссоциируют;
-    $$K_4Fe(CN)_6 \rightarrow 4K^+ +[Fe(CN)_6]^{4-}$$
+    \begin{equation}
+    K_4Fe(CN)_6 \rightarrow 4K^+ +[Fe(CN)_6]^{4-}
+\end{equation}
     Ионы $K^+$ свободно проникают через нашу перегородку и не создают
     осмотического давления.\\
     
@@ -248,7 +252,7 @@ $$ P_{\text{осм}} = n\cdot k_{\text{б}}\cdot T $$
 		\begin{longtable} {|c|c|c|c|c|c|}
 		\hline
 		P, кгс/см$^2$ & $ t $, с &   $ \Delta l$, мм  & $v$,  мм/с   & $\overline v $, мм/с & $\sigma_{\overline v}$, мм/с\\ \hline
-		\multirow{4}{*}{200}& 9,4 & 10 & 1,06 &  \multirow{4}{*}{1,07}    & \multirow{4}{*}{0,1}\\ \cline{2-4}
+		\multirow{4}{*}{200}& 9,4 & 10 & 1,06 &  \multirow{4}{*}{1,1}    & \multirow{4}{*}{0,1}\\ \cline{2-4}
 		& 8,9 & 10 &   1,12         &               &\\ \cline{2-4}
 		& 9,4 & 10 &     1,06         &              & \\ \cline{2-4}
 		& 9,5 & 10 &    1,05           &             &\\ \hline
@@ -299,31 +303,40 @@ $$ P_{\text{осм}} = n\cdot k_{\text{б}}\cdot T $$
 	
 %	$$ \sigma_{\text{отд}} = \sqrt{\frac{1}{n - 1} \sum\limits_{i=1}^n (x_i - x_{\overline x})^2 } $$
 	
-	
-	$$ \sigma_v = v \sqrt{(\frac{\sigma_t}{t})^2 + (\frac{\sigma_{\Delta_l}}{\Delta_l})^2 } $$
-	
+	\begin{equation}
+ \sigma_v = v \sqrt{(\frac{\sigma_t}{t})^2 + (\frac{\sigma_{\Delta_l}}{\Delta_l})^2 } 
+\end{equation}
+
 	% $$ \sigma_{\overline v} = \frac{\sigma_{v}}{\sqrt n}  $$
 	
 	\item Построим графики зависимости $ v(P) $. Точка пересечения полученных прямых с осью ординат покажет величину осмотического давления. Подсчет коэффициентов и погрешностей МНК проведем по формулам: 
 	
-	$$ k = \frac{\overline{vP} - \overline v  \overline P}{\overline{v^2} - \overline v ^2} $$
+\begin{equation}
+	 k = \frac{\overline{vP} - \overline v  \overline P}{\overline{v^2} - \overline v ^2} 
+\end{equation}
 	
-	$$ b = \overline P - k \overline v $$
+	\begin{equation}
+		 b = \overline P - k \overline v 
+	\end{equation}
 	
-	$$ \sigma_k = \frac{1}{\sqrt n} \sqrt{\frac{\overline{P^2} - \overline P ^2}{\overline{v^2} - \overline v ^2} - k^2} $$
+	\begin{equation}
+		 \sigma_k = \frac{1}{\sqrt n} \sqrt{\frac{\overline{P^2} - \overline P ^2}{\overline{v^2} - \overline v ^2} - k^2} 
+	\end{equation}
 	
 	
-	$$ \sigma_b = \sigma_k \sqrt{\overline{v^2} - \overline v ^2} $$
+	\begin{equation}
+		 \sigma_b = \sigma_k \sqrt{\overline{v^2} - \overline v ^2} 
+	\end{equation}
 	
-	$$ \sigma_{\text{сист}} = P_{\text{осм}} \sqrt{\varepsilon_v ^2 + \varepsilon_P ^2}
-	
-	$$ \sigma_{P_{\text{осм}}} = \sqrt{\sigma_{\text{сист}}^2 + \sigma_b ^2}$$
+	\begin{equation} 
+		\sigma_{P_{\text{осм}}} = \sigma_b
+	\end{equation}
 	
 	\item Тогда получим 
 	
 	
 	\begin{figure}[H]
-		\center{\includegraphics [scale=1]{v(P).png}}
+		\center{\includegraphics [scale=1]{P(v).png}}
 	\end{figure}
 
 
@@ -331,9 +344,23 @@ $$ P_{\text{осм}} = n\cdot k_{\text{б}}\cdot T $$
 	\begin{longtable}{|c|c|c|c|}
 		\hline
 	C, \%	&  1  &  1,5 &  0,75 \\ \hline
-	$P_{\text{осм}}$, кгс/см$^2$ & 22 & 14 & 11 \\ \hline
+	$P_{\text{осм}}$, кгс/см$^2$ & 22$\pm 1$ & 14$\pm 2$& 11$\pm 2$ \\ \hline
+	\caption{Значения осмотического давления.}
 	\end{longtable}
+
+
+
+\item Построим график зависимости осмотического давления от концентрации раствора 	$P_{\text{осм}}(C)$
+
+\begin{figure}[H]
+	\center{\includegraphics [scale=1]{P(C).png}}
+\end{figure}
+
+
+
+
 \end{enumerate}
+
 	\textbf{Обсуждение результатов: }\\
 		
 		

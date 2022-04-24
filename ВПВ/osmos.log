@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.15)  22 APR 2022 07:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.15)  22 APR 2022 23:45
 entering extended mode
 **./osmos.tex
 (osmos.tex
@@ -1092,123 +1092,90 @@ File: photo_1.png Graphic file (type png)
 Package pdftex.def Info: photo_1.png  used on input line 82.
 (pdftex.def)             Requested size: 118.0407pt x 145.74414pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--96
+Underfull \hbox (badness 10000) in paragraph at lines 93--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 [1 <./photo_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 99--109
+Underfull \hbox (badness 10000) in paragraph at lines 101--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 <photo_2.png, id=21, 353.52075pt x 449.2785pt>
 File: photo_2.png Graphic file (type png)
 <use photo_2.png>
-Package pdftex.def Info: photo_2.png  used on input line 131.
+Package pdftex.def Info: photo_2.png  used on input line 135.
 (pdftex.def)             Requested size: 424.22278pt x 539.13148pt.
 [2] [3 <./photo_2.png>] [4] [5] [6]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.319 	
-       
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.319 	
-       
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Display math should end with $$.
-<to be read again> 
-                   \tex_par:D 
-l.319 	
-       
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.319 	
-       
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-<v(P).png, id=44, 462.528pt x 346.896pt>
-File: v(P).png Graphic file (type png)
-<use v(P).png>
-Package pdftex.def Info: v(P).png  used on input line 326.
+<P(v).png, id=44, 462.528pt x 346.896pt>
+File: P(v).png Graphic file (type png)
+<use P(v).png>
+Package pdftex.def Info: P(v).png  used on input line 339.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+<P(C).png, id=45, 462.528pt x 346.896pt>
+File: P(C).png Graphic file (type png)
+<use P(C).png>
+Package pdftex.def Info: P(C).png  used on input line 356.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+ [7 <./P(v).png>]
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
 
  []
 
-[7 <./v(P).png>] [8] (osmos.aux) ) 
+[8 <./P(C).png>] (osmos.aux) ) 
 Here is how much of TeX's memory you used:
- 26157 strings out of 478699
- 660130 string characters out of 2840799
- 1103425 words of memory out of 3000000
- 43814 multiletter control sequences out of 15000+600000
+ 26164 strings out of 478699
+ 660217 string characters out of 2840799
+ 1103426 words of memory out of 3000000
+ 43820 multiletter control sequences out of 15000+600000
  412085 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,8n,103p,902b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Александр\AppData\Local\M
-iKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\Александ�
-�\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\
-Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm12
-00.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
-t2a/dpi600\labx1200.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fonts
-/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Users/Александр/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Але�
-�сандр/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12
+ <C:\Users\Александр\AppData\Local\MiKTe
+X\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\Александр\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Ал
+ександр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.p
+k> <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
+dpi600\labx1200.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/
+ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Users/Александр/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Алекс�
+�ндр/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+><C:/Users/Александр/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmmi6.pfb><C:/Users/Александр/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Александр/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Ал�
+�ксандр/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8
 .pfb><C:/Users/Александр/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmmi6.pfb><C:/Users/Александр/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Александр/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/�
-�лександр/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr8.pfb><C:/Users/Александр/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb><C:/Users/Александр/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on osmos.pdf (9 pages, 335423 bytes).
+lic/amsfonts/cm/cmsy10.pfb><C:/Users/Александр/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on osmos.pdf (9 pages, 361642 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
