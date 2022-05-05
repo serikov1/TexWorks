@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  3 MAY 2022 08:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  29 APR 2022 22:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./osmos.tex
-(osmos.tex
+**"./lab 2-4-1.tex"
+(lab 2-4-1.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -830,8 +830,9 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box72
-) (osmos.aux)
-\openout1 = `osmos.aux'.
+)
+(lab 2-4-1.aux)
+\openout1 = `"lab 2-4-1.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -937,7 +938,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
@@ -946,112 +947,88 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
-<photo_1.png, id=11, 118.041pt x 145.7445pt>
-File: photo_1.png Graphic file (type png)
-<use photo_1.png>
-Package pdftex.def Info: photo_1.png  used on input line 82.
-(pdftex.def)             Requested size: 118.0407pt x 145.74414pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--98
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
-[1 <./photo_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 101--111
+<photo 1.png, id=19, 128.48pt x 181.17688pt>
+File: photo 1.png Graphic file (type png)
+<use photo 1.png>
+Package pdftex.def Info: photo 1.png  used on input line 113.
+(pdftex.def)             Requested size: 128.47968pt x 181.17642pt.
+
+LaTeX Warning: Reference `img2' on page 2 undefined on input line 119.
+
+[2 <./photo 1.png>]
+<photo 2.png, id=25, 271.51437pt x 138.5175pt>
+File: photo 2.png Graphic file (type png)
+<use photo 2.png>
+Package pdftex.def Info: photo 2.png  used on input line 127.
+(pdftex.def)             Requested size: 271.51369pt x 138.51715pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--127
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-
- []
-
-<photo_2.png, id=21, 353.52075pt x 449.2785pt>
-File: photo_2.png Graphic file (type png)
-<use photo_2.png>
-Package pdftex.def Info: photo_2.png  used on input line 135.
-(pdftex.def)             Requested size: 424.22278pt x 539.13148pt.
-[2] [3 <./photo_2.png>] [4] [5] [6]
-<P(v).png, id=44, 462.528pt x 346.896pt>
-File: P(v).png Graphic file (type png)
-<use P(v).png>
-Package pdftex.def Info: P(v).png  used on input line 340.
+[3 <./photo 2.png>]
+<P(T).png, id=32, 462.528pt x 346.896pt>
+File: P(T).png Graphic file (type png)
+<use P(T).png>
+Package pdftex.def Info: P(T).png  used on input line 169.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
-<P(C).png, id=45, 462.528pt x 346.896pt>
-File: P(C).png Graphic file (type png)
-<use P(C).png>
-Package pdftex.def Info: P(C).png  used on input line 357.
+<ln P(T-1).png, id=33, 462.528pt x 346.896pt>
+File: ln P(T-1).png Graphic file (type png)
+<use ln P(T-1).png>
+Package pdftex.def Info: ln P(T-1).png  used on input line 173.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
- [7 <./P(v).png>] [8 <./P(C).png>]
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
+ [4 <./P(T).png>] [5 <./ln P(T-1).png>]
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
+[6] (lab 2-4-1.aux)
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
+LaTeX Warning: There were undefined references.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
-
- []
-
-[9] (osmos.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 26370 strings out of 478582
- 654062 string characters out of 2854162
- 1097296 words of memory out of 3000000
- 44127 multiletter control sequences out of 15000+600000
+ 26376 strings out of 478582
+ 654259 string characters out of 2854162
+ 1069302 words of memory out of 3000000
+ 44133 multiletter control sequences out of 15000+600000
  477914 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,8n,103p,1427b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\larm0600.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
-i12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/P
-rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
-msy8.pfb>
-Output written on osmos.pdf (10 pages, 375708 bytes).
+ 99i,8n,103p,1735b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm080
+0.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
+1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
+abx1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pf
+b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb>
+Output written on "lab 2-4-1.pdf" (7 pages, 246307 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
+ 246 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
