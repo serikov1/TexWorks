@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  6 MAY 2022 08:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  6 MAY 2022 08:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -962,9 +962,6 @@ File: photo 1.png Graphic file (type png)
 <use photo 1.png>
 Package pdftex.def Info: photo 1.png  used on input line 113.
 (pdftex.def)             Requested size: 128.47968pt x 181.17642pt.
-
-LaTeX Warning: Reference `img2' on page 2 undefined on input line 119.
-
 [2 <./photo 1.png>]
 <photo 2.png, id=25, 271.51437pt x 138.5175pt>
 File: photo 2.png Graphic file (type png)
@@ -1002,33 +999,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
-[6] (lab 2-4-1.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[6] (lab 2-4-1.aux) ) 
 Here is how much of TeX's memory you used:
- 26376 strings out of 478582
- 654259 string characters out of 2854162
+ 26375 strings out of 478582
+ 654253 string characters out of 2854162
  1069302 words of memory out of 3000000
- 44133 multiletter control sequences out of 15000+600000
+ 44132 multiletter control sequences out of 15000+600000
  477914 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,8n,103p,1735b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm080
-0.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
-1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
-abx1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pf
-b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb>
-Output written on "lab 2-4-1.pdf" (7 pages, 246303 bytes).
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
+/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljf
+our/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb>
+Output written on "lab 2-4-1.pdf" (7 pages, 245147 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
+ 245 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
