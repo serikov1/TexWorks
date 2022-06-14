@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  5 MAY 2022 23:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  9 JUN 2022 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -990,40 +990,41 @@ Package pdftex.def Info: photo_2.png  used on input line 135.
 <P(v).png, id=44, 462.528pt x 346.896pt>
 File: P(v).png Graphic file (type png)
 <use P(v).png>
-Package pdftex.def Info: P(v).png  used on input line 340.
+Package pdftex.def Info: P(v).png  used on input line 347.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
-<P(C).png, id=45, 462.528pt x 346.896pt>
+ [7 <./P(v).png>]
+<P(C).png, id=50, 462.528pt x 346.896pt>
 File: P(C).png Graphic file (type png)
 <use P(C).png>
-Package pdftex.def Info: P(C).png  used on input line 357.
+Package pdftex.def Info: P(C).png  used on input line 364.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
- [7 <./P(v).png>] [8 <./P(C).png>]
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
+ [8 <./P(C).png>]
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 391--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
 
  []
 
@@ -1035,7 +1036,7 @@ Here is how much of TeX's memory you used:
  44127 multiletter control sequences out of 15000+600000
  477914 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,8n,103p,1427b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 99i,8n,103p,1435b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
 /dpi600\larm0600.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
 t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
@@ -1049,9 +1050,9 @@ MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
 msy8.pfb>
-Output written on osmos.pdf (10 pages, 375721 bytes).
+Output written on osmos.pdf (10 pages, 380356 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
+ 277 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
