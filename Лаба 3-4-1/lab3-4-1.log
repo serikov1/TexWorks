@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  14 SEP 2022 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  18 SEP 2022 23:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./lab_2-5-1.tex
-(lab_2-5-1.tex
+**./lab3-4-1.tex
+(lab3-4-1.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -831,8 +831,8 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box72
 )
-(lab_2-5-1.aux)
-\openout1 = `lab_2-5-1.aux'.
+(lab3-4-1.aux)
+\openout1 = `lab3-4-1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -938,109 +938,122 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--74
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-<installation.png, id=11, 373.99725pt x 251.7405pt>
-File: installation.png Graphic file (type png)
-<use installation.png>
-Package pdftex.def Info: installation.png  used on input line 90.
-(pdftex.def)             Requested size: 373.99632pt x 251.73987pt.
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 94.
-
-Missing character: There is no С in font cmr12!
-
-Overfull \hbox (2.13402pt too wide) in paragraph at lines 94--95
-[]\T2A/cmr/m/n/12 Исследуемая жид-кость (ди-стил-ли-ро-ван-ная во-да) на-ли-ва-
-ет-ся в со-суд (кол-бу) $\OML/cmm/m/it/12 B$ \T2A/cmr/m/n/12 (рис.1).
- []
-
-[1 <./installation.png>]
-
-LaTeX Warning: Command \CYRV invalid in math mode on input line 96.
-
-Missing character: There is no В in font cmr12!
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 96.
-
-Missing character: There is no С in font cmr12!
-
-LaTeX Warning: Command \CYRV invalid in math mode on input line 98.
-
-Missing character: There is no В in font cmr12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+<photo1.png, id=11, 99.37125pt x 146.5475pt>
+File: photo1.png Graphic file (type png)
+<use photo1.png>
+Package pdftex.def Info: photo1.png  used on input line 80.
+(pdftex.def)             Requested size: 99.371pt x 146.54712pt.
+[1 <./photo1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
-
- []
-
-[2]
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
+<photo2.png, id=20, 228.855pt x 153.57375pt>
+File: photo2.png Graphic file (type png)
+<use photo2.png>
+Package pdftex.def Info: photo2.png  used on input line 119.
+(pdftex.def)             Requested size: 228.85443pt x 153.57336pt.
 
-Overfull \hbox (3.44098pt too wide) in paragraph at lines 118--119
-\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0224$ \T2A/cmr/m/n/12 Н/м -
- ко-эф-фи-ци-ент по-верх-ност-но-го на-тя-же-ния спир-та при 20$[]\OML/cmm/m/it
-/12 C$\T2A/cmr/m/n/12 , d = 1,15$\OMS/cmsy/m/n/12 ^^F\OT1/cmr/m/n/12 0\OML/cmm/
-m/it/12 ; \OT1/cmr/m/n/12 05$
+Underfull \hbox (badness 10000) in paragraph at lines 123--129
+
  []
 
-[3] [4] [5]
-<surface_tension.png, id=36, 462.528pt x 346.896pt>
-File: surface_tension.png Graphic file (type png)
-<use surface_tension.png>
-Package pdftex.def Info: surface_tension.png  used on input line 277.
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--144
+
+ []
+
+[2 <./photo2.png>]
+<3-4-1_first.png, id=27, 462.528pt x 346.896pt>
+File: 3-4-1_first.png Graphic file (type png)
+<use 3-4-1_first.png>
+Package pdftex.def Info: 3-4-1_first.png  used on input line 159.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
- [6 <./surface_tension.png>] (lab_2-5-1.aux) ) 
+ [3 <./3-4-1_first.png>]
+<3-4-1_second.png, id=34, 462.528pt x 346.896pt>
+File: 3-4-1_second.png Graphic file (type png)
+<use 3-4-1_second.png>
+Package pdftex.def Info: 3-4-1_second.png  used on input line 212.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+[5 <./3-4-1_second.png>] (lab3-4-1.aux) ) 
 Here is how much of TeX's memory you used:
- 26365 strings out of 478582
- 654113 string characters out of 2854162
- 1083300 words of memory out of 3000000
- 44124 multiletter control sequences out of 15000+600000
+ 26373 strings out of 478582
+ 654235 string characters out of 2854162
+ 1086299 words of memory out of 3000000
+ 44130 multiletter control sequences out of 15000+600000
  477914 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,7n,103p,1353b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\user\AppData\Local\MiK
-TeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\
-MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Loc
-al\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\
-Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pr
-ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab_2-5-1.pdf (7 pages, 284550 bytes).
+ 99i,7n,103p,942b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\user\AppData\Local\MiKTeX\f
+onts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\user\AppData\Local\MiKTe
+X\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Local
+\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pro
+gram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb>
+Output written on lab3-4-1.pdf (6 pages, 237001 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
+ 251 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
