@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  26 SEP 2022 15:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  5 OCT 2022 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./lab3-4-1.tex
-(lab3-4-1.tex
+**./lab_3-2-5.tex
+(lab_3-2-5.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -831,8 +831,8 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box72
 )
-(lab3-4-1.aux)
-\openout1 = `lab3-4-1.aux'.
+(lab_3-2-5.aux)
+\openout1 = `lab_3-2-5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -957,102 +957,86 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-<photo1.png, id=11, 99.37125pt x 146.5475pt>
-File: photo1.png Graphic file (type png)
-<use photo1.png>
-Package pdftex.def Info: photo1.png  used on input line 80.
-(pdftex.def)             Requested size: 99.371pt x 146.54712pt.
-[1 <./photo1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-<photo2.png, id=20, 228.855pt x 153.57375pt>
+<photo2.png, id=11, 1284.8pt x 1087.06125pt>
 File: photo2.png Graphic file (type png)
 <use photo2.png>
-Package pdftex.def Info: photo2.png  used on input line 119.
-(pdftex.def)             Requested size: 228.85443pt x 153.57336pt.
+Package pdftex.def Info: photo2.png  used on input line 89.
+(pdftex.def)             Requested size: 218.4131pt x 184.79796pt.
+[1 <./photo2.png>]
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--129
+LaTeX Warning: Command \cyri invalid in math mode on input line 97.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 97.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 97.
+
+
+LaTeX Warning: Command \cyrerev invalid in math mode on input line 97.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 97.
+
+Missing character: There is no è in font cmr12!
+Missing character: There is no ç in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ý in font cmr12!
+Missing character: There is no î in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--106
+
+ []
+
+<photo1.png, id=15, 1284.8pt x 668.4975pt>
+File: photo1.png Graphic file (type png)
+<use photo1.png>
+Package pdftex.def Info: photo1.png  used on input line 118.
+(pdftex.def)             Requested size: 385.44298pt x 200.5508pt.
+[2 <./photo1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--133
+Overfull \hbox (26.41344pt too wide) in alignment at lines 132--160
+ [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+<graph_1.png, id=25, 462.528pt x 346.896pt>
+File: graph_1.png Graphic file (type png)
+<use graph_1.png>
+Package pdftex.def Info: graph_1.png  used on input line 162.
+(pdftex.def)             Requested size: 323.76738pt x 242.82553pt.
+[3 <./graph_1.png>] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--144
-
- []
-
-[2 <./photo2.png>]
-<3-4-1_first.png, id=27, 462.528pt x 346.896pt>
-File: 3-4-1_first.png Graphic file (type png)
-<use 3-4-1_first.png>
-Package pdftex.def Info: 3-4-1_first.png  used on input line 159.
-(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
- [3 <./3-4-1_first.png>]
-<3-4-1_second.png, id=34, 462.528pt x 346.896pt>
-File: 3-4-1_second.png Graphic file (type png)
-<use 3-4-1_second.png>
-Package pdftex.def Info: 3-4-1_second.png  used on input line 212.
-(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 220--223
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
-
- []
-
-[5 <./3-4-1_second.png>] (lab3-4-1.aux) ) 
+[5] (lab_3-2-5.aux) ) 
 Here is how much of TeX's memory you used:
- 26373 strings out of 478582
- 654235 string characters out of 2854162
- 1085299 words of memory out of 3000000
- 44130 multiletter control sequences out of 15000+600000
+ 26365 strings out of 478582
+ 654083 string characters out of 2854162
+ 1090300 words of memory out of 3000000
+ 44123 multiletter control sequences out of 15000+600000
  477914 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,7n,103p,942b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\user\AppData\Local\MiKTeX\f
-onts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\MiKTe
-X\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\Local
-\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.p
-fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmsy8.pfb>
-Output written on lab3-4-1.pdf (6 pages, 234352 bytes).
+ 99i,10n,103p,1034b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
+/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljf
+our/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
+msy8.pfb>
+Output written on lab_3-2-5.pdf (6 pages, 509116 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
+ 252 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
