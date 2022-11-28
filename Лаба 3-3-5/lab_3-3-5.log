@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  16 NOV 2022 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  24 NOV 2022 23:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./drobovoy.tex
-(drobovoy.tex
+**./lab_3-3-5.tex
+(lab_3-3-5.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -831,8 +831,8 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box72
 )
-(drobovoy.aux)
-\openout1 = `drobovoy.aux'.
+(lab_3-3-5.aux)
+\openout1 = `lab_3-3-5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -933,72 +933,114 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
+Underfull \hbox (badness 10000) in paragraph at lines 67--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 71--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 90--94
 
  []
 
-<LCR.png, id=11, 256.45813pt x 203.76125pt>
-File: LCR.png Graphic file (type png)
-<use LCR.png>
-Package pdftex.def Info: LCR.png  used on input line 93.
-(pdftex.def)             Requested size: 179.51945pt x 142.6319pt.
-[1 <./LCR.png>] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+[1]
+<ust.png, id=20, 385.94188pt x 325.71687pt>
+File: ust.png Graphic file (type png)
+<use ust.png>
+Package pdftex.def Info: ust.png  used on input line 105.
+(pdftex.def)             Requested size: 385.94093pt x 325.71606pt.
+ [2 <./ust.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
-<ustanovka.png, id=29, 617.80812pt x 331.2375pt>
-File: ustanovka.png Graphic file (type png)
-<use ustanovka.png>
-Package pdftex.def Info: ustanovka.png  used on input line 174.
-(pdftex.def)             Requested size: 432.46274pt x 231.86465pt.
-[3 <./ustanovka.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+Overfull \hbox (4.95454pt too wide) in alignment at lines 120--125
+ [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+<B(I).png, id=26, 462.528pt x 346.896pt>
+File: B(I).png Graphic file (type png)
+<use B(I).png>
+Package pdftex.def Info: B(I).png  used on input line 128.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
-<Id(Ug).png, id=34, 414.8298pt x 307.1475pt>
-File: Id(Ug).png Graphic file (type png)
-<use Id(Ug).png>
-Package pdftex.def Info: Id(Ug).png  used on input line 198.
-(pdftex.def)             Requested size: 414.82878pt x 307.14674pt.
-[4 <./Id(Ug).png>] [5] [6] (drobovoy.aux) ) 
+[3 <./B(I).png>] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--195
+
+ []
+
+<U(B).png, id=35, 462.528pt x 346.896pt>
+File: U(B).png Graphic file (type png)
+<use U(B).png>
+Package pdftex.def Info: U(B).png  used on input line 200.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+<k(I)Cu.png, id=36, 462.528pt x 346.896pt>
+File: k(I)Cu.png Graphic file (type png)
+<use k(I)Cu.png>
+Package pdftex.def Info: k(I)Cu.png  used on input line 205.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+[5 <./U(B).png>]
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--219
+
+ []
+
+[6 <./k(I)Cu.png>]
+Overfull \hbox (29.80197pt too wide) in alignment at lines 227--233
+ [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+[7] (lab_3-3-5.aux) ) 
 Here is how much of TeX's memory you used:
- 26374 strings out of 478582
- 654258 string characters out of 2854162
- 1090299 words of memory out of 3000000
- 44131 multiletter control sequences out of 15000+600000
+ 26378 strings out of 478582
+ 654174 string characters out of 2854162
+ 1091300 words of memory out of 3000000
+ 44134 multiletter control sequences out of 15000+600000
  478784 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,103p,942b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\user\AppData\Local\MiKTeX
-\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\user\AppData\Local\MiK
-TeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\
-MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\user\AppData\Loc
-al\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\
-Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppDa
-ta\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
+ 99i,8n,103p,731b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
+/lh-t2a/dpi600\lati1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljf
+our/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/
+ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program File
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmsy8.pfb>
-Output written on drobovoy.pdf (7 pages, 282431 bytes).
+:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on lab_3-3-5.pdf (8 pages, 279333 bytes).
 PDF statistics:
  280 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

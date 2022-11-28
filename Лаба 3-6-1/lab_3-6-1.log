@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  16 NOV 2022 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  14 NOV 2022 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./drobovoy.tex
-(drobovoy.tex
+**./lab_3-6-1.tex
+(lab_3-6-1.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -831,8 +831,8 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box72
 )
-(drobovoy.aux)
-\openout1 = `drobovoy.aux'.
+(lab_3-6-1.aux)
+\openout1 = `lab_3-6-1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -938,67 +938,133 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--69
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
-<LCR.png, id=11, 256.45813pt x 203.76125pt>
-File: LCR.png Graphic file (type png)
-<use LCR.png>
-Package pdftex.def Info: LCR.png  used on input line 93.
-(pdftex.def)             Requested size: 179.51945pt x 142.6319pt.
-[1 <./LCR.png>] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-<ustanovka.png, id=29, 617.80812pt x 331.2375pt>
-File: ustanovka.png Graphic file (type png)
-<use ustanovka.png>
-Package pdftex.def Info: ustanovka.png  used on input line 174.
-(pdftex.def)             Requested size: 432.46274pt x 231.86465pt.
-[3 <./ustanovka.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
-<Id(Ug).png, id=34, 414.8298pt x 307.1475pt>
-File: Id(Ug).png Graphic file (type png)
-<use Id(Ug).png>
-Package pdftex.def Info: Id(Ug).png  used on input line 198.
-(pdftex.def)             Requested size: 414.82878pt x 307.14674pt.
-[4 <./Id(Ug).png>] [5] [6] (drobovoy.aux) ) 
+<2.png, id=23, 411.939pt x 140.9265pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 111.
+(pdftex.def)             Requested size: 370.74165pt x 126.83267pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+<3.png, id=24, 380.01974pt x 118.041pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 135.
+(pdftex.def)             Requested size: 342.0146pt x 106.2359pt.
+[2 <./2.png> <./3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+<4.png, id=28, 436.029pt x 134.904pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 148.
+(pdftex.def)             Requested size: 392.42245pt x 121.41248pt.
+[3 <./4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+<v(t).png, id=32, 462.528pt x 346.896pt>
+File: v(t).png Graphic file (type png)
+<use v(t).png>
+Package pdftex.def Info: v(t).png  used on input line 186.
+(pdftex.def)             Requested size: 416.27133pt x 312.2035pt.
+[4 <./v(t).png>]
+<0.5кгц50с.png, id=39, 803.0pt x 481.8pt>
+File: 0.5кгц50с.png Graphic file (type png)
+<use 0.5кгц50с.png>
+Package pdftex.def Info: 0.5кгц50с.png  used on input line 194.
+(pdftex.def)             Requested size: 321.1943pt x 192.71658pt.
+<1кгц50с.png, id=40, 803.0pt x 481.8pt>
+File: 1кгц50с.png Graphic file (type png)
+<use 1кгц50с.png>
+Package pdftex.def Info: 1кгц50с.png  used on input line 199.
+(pdftex.def)             Requested size: 321.1943pt x 192.71658pt.
+<1.5кгц50с.png, id=41, 803.0pt x 481.8pt>
+File: 1.5кгц50с.png Graphic file (type png)
+<use 1.5кгц50с.png>
+Package pdftex.def Info: 1.5кгц50с.png  used on input line 204.
+(pdftex.def)             Requested size: 321.1943pt x 192.71658pt.
+ [5 <./0.5кгц50с.png> <./1кгц50с.png> <./1.5кгц50с.png>]
+<1кгц75с.png, id=48, 803.0pt x 481.8pt>
+File: 1кгц75с.png Graphic file (type png)
+<use 1кгц75с.png>
+Package pdftex.def Info: 1кгц75с.png  used on input line 211.
+(pdftex.def)             Requested size: 401.49902pt x 240.8994pt.
+<1кгц100с.png, id=49, 803.0pt x 481.8pt>
+File: 1кгц100с.png Graphic file (type png)
+<use 1кгц100с.png>
+Package pdftex.def Info: 1кгц100с.png  used on input line 216.
+(pdftex.def)             Requested size: 401.49902pt x 240.8994pt.
+ [6 <./1кгц75с.png> <./1кгц100с.png>]
+<v(T1).png, id=56, 462.528pt x 346.896pt>
+File: v(T1).png Graphic file (type png)
+<use v(T1).png>
+Package pdftex.def Info: v(T1).png  used on input line 236.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+[7 <./v(T1).png>] (lab_3-6-1.aux) ) 
 Here is how much of TeX's memory you used:
- 26374 strings out of 478582
- 654258 string characters out of 2854162
- 1090299 words of memory out of 3000000
- 44131 multiletter control sequences out of 15000+600000
+ 26413 strings out of 478582
+ 654875 string characters out of 2854162
+ 1060300 words of memory out of 3000000
+ 44163 multiletter control sequences out of 15000+600000
  478784 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,103p,942b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\user\AppData\Local\MiKTeX
-\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\user\AppData\Local\MiK
-TeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\
-MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\user\AppData\Loc
-al\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\
-Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppDa
-ta\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program File
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmsy8.pfb>
-Output written on drobovoy.pdf (7 pages, 282431 bytes).
+ 99i,7n,103p,731b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/p
+k/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\MiKTeX\font
+s/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\user\AppData\Local\MiKTeX\f
+onts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Local\MiKTe
+X\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/font
+s/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Fi
+les/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmsy8.pfb>
+Output written on lab_3-6-1.pdf (8 pages, 311423 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
+ 289 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

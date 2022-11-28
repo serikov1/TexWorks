@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  16 NOV 2022 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  16 NOV 2022 18:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./drobovoy.tex
-(drobovoy.tex
+**./milliken.tex
+(milliken.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -826,30 +826,33 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@dima=\skip64
 \bigstrutjot=\dimen290
 )
+(C:\Program Files\MiKTeX\tex/latex/tools\hhline.sty
+Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+)
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box72
 )
-(drobovoy.aux)
-\openout1 = `drobovoy.aux'.
+(milliken.aux)
+\openout1 = `milliken.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -885,7 +888,7 @@ LaTeX Font Info:    ... okay on input line 34.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 34.
+LaTeX Info: Redefining \th on input line 35.
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count316
@@ -911,16 +914,16 @@ Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--54
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -928,77 +931,64 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-<LCR.png, id=11, 256.45813pt x 203.76125pt>
-File: LCR.png Graphic file (type png)
-<use LCR.png>
-Package pdftex.def Info: LCR.png  used on input line 93.
-(pdftex.def)             Requested size: 179.51945pt x 142.6319pt.
-[1 <./LCR.png>] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+[1]
+<ust.png, id=22, 462.22687pt x 275.52937pt>
+File: ust.png Graphic file (type png)
+<use ust.png>
+Package pdftex.def Info: ust.png  used on input line 121.
+(pdftex.def)             Requested size: 277.33826pt x 165.3189pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-<ustanovka.png, id=29, 617.80812pt x 331.2375pt>
-File: ustanovka.png Graphic file (type png)
-<use ustanovka.png>
-Package pdftex.def Info: ustanovka.png  used on input line 174.
-(pdftex.def)             Requested size: 432.46274pt x 231.86465pt.
-[3 <./ustanovka.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--134
 
  []
 
-<Id(Ug).png, id=34, 414.8298pt x 307.1475pt>
-File: Id(Ug).png Graphic file (type png)
-<use Id(Ug).png>
-Package pdftex.def Info: Id(Ug).png  used on input line 198.
-(pdftex.def)             Requested size: 414.82878pt x 307.14674pt.
-[4 <./Id(Ug).png>] [5] [6] (drobovoy.aux) ) 
+[2 <./ust.png>] [3] (milliken.aux) ) 
 Here is how much of TeX's memory you used:
- 26374 strings out of 478582
- 654258 string characters out of 2854162
- 1090299 words of memory out of 3000000
- 44131 multiletter control sequences out of 15000+600000
- 478784 words of font info for 52 fonts, out of 8000000 for 9000
+ 26386 strings out of 478582
+ 654592 string characters out of 2854162
+ 1111299 words of memory out of 3000000
+ 44143 multiletter control sequences out of 15000+600000
+ 477914 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,103p,942b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\user\AppData\Local\MiKTeX
-\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\user\AppData\Local\MiK
-TeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\
-MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\user\AppData\Loc
-al\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\
-Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppDa
-ta\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
+ 99i,7n,103p,730b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/
+pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Local\MiKTeX\
+fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\Local\MiKT
+eX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program File
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmsy8.pfb>
-Output written on drobovoy.pdf (7 pages, 282431 bytes).
+:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on milliken.pdf (4 pages, 172014 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
+ 214 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
