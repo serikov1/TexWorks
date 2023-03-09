@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  27 DEC 2022 12:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  9 FEB 2023 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./milliken.tex
-(milliken.tex
+**"./Лаба 4-4-3.tex"
+(Лаба 4-4-3.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -826,33 +826,30 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@dima=\skip64
 \bigstrutjot=\dimen290
 )
-(C:\Program Files\MiKTeX\tex/latex/tools\hhline.sty
-Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
-)
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box72
 )
-(milliken.aux)
-\openout1 = `milliken.aux'.
+(Лаба 4-4-3.aux)
+\openout1 = `"Лаба 4-4-3.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -862,14 +859,14 @@ LaTeX Font Info:    ... okay on input line 35.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* h-part:(L,W,R)=(17.07182pt, 551.9833pt, 28.45274pt)
 * v-part:(T,H,B)=(56.9055pt, 702.78308pt, 85.35826pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=483.69687pt
+* \textwidth=551.9833pt
 * \textheight=702.78308pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
+* \oddsidemargin=-55.19817pt
+* \evensidemargin=-55.19817pt
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -888,7 +885,7 @@ LaTeX Font Info:    ... okay on input line 35.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 35.
+LaTeX Info: Redefining \th on input line 34.
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count316
@@ -914,16 +911,16 @@ Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--57
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -931,111 +928,97 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-[1]
-<ust.png, id=22, 462.22687pt x 275.52937pt>
-File: ust.png Graphic file (type png)
-<use ust.png>
-Package pdftex.def Info: ust.png  used on input line 123.
-(pdftex.def)             Requested size: 277.33826pt x 165.3189pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
-
- []
-
-[2 <./ust.png>] [3]
-<1_6q.png, id=33, 254.9525pt x 71.26625pt>
-File: 1_6q.png Graphic file (type png)
-<use 1_6q.png>
-Package pdftex.def Info: 1_6q.png  used on input line 204.
-(pdftex.def)             Requested size: 382.42778pt x 106.89908pt.
-<3_2q.png, id=34, 306.14375pt x 71.26625pt>
-File: 3_2q.png Graphic file (type png)
-<use 3_2q.png>
-Package pdftex.def Info: 3_2q.png  used on input line 208.
-(pdftex.def)             Requested size: 459.21448pt x 106.89908pt.
-<5_0q.png, id=35, 313.67188pt x 68.255pt>
-File: 5_0q.png Graphic file (type png)
-<use 5_0q.png>
-Package pdftex.def Info: 5_0q.png  used on input line 212.
-(pdftex.def)             Requested size: 470.50664pt x 102.38223pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
+<1.png, id=11, 385.94188pt x 164.11313pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 82.
+(pdftex.def)             Requested size: 469.18918pt x 199.51154pt.
+[1 <./1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
+Overfull \hbox (13.42262pt too wide) in alignment at lines 130--138
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
+<n(lambda).png, id=27, 462.528pt x 346.896pt>
+File: n(lambda).png Graphic file (type png)
+<use n(lambda).png>
+Package pdftex.def Info: n(lambda).png  used on input line 154.
+(pdftex.def)             Requested size: 416.27133pt x 312.2035pt.
+[3 <./n(lambda).png>]
+Overfull \hbox (14.56331pt too wide) in alignment at lines 163--168
+ [] [] [] [] [] [] [] 
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
 
  []
 
-[4 <./1_6q.png> <./3_2q.png> <./5_0q.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-
- []
-
-[5] (milliken.aux) ) 
+[4] (Лаба 4-4-3.aux) ) 
 Here is how much of TeX's memory you used:
- 26408 strings out of 478582
- 654868 string characters out of 2854162
- 1111299 words of memory out of 3000000
- 44162 multiletter control sequences out of 15000+600000
- 477914 words of font info for 51 fonts, out of 8000000 for 9000
+ 26356 strings out of 478582
+ 654034 string characters out of 2854162
+ 1070312 words of memory out of 3000000
+ 44116 multiletter control sequences out of 15000+600000
+ 477178 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,7n,103p,948b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
-t2a/dpi600\larm0800.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
-i12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/P
-rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cms
-y10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on milliken.pdf (6 pages, 217323 bytes).
+ 99i,8n,103p,889b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/
+lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/l
+jfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/p
+k/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Fi
+les/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "Лаба 4-4-3.pdf" (5 pages, 197932 bytes).
 PDF statistics:
- 245 PDF objects out of 1000 (max. 8388607)
+ 260 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
