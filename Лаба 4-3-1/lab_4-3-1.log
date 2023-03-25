@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  18 MAR 2023 15:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.23)  23 MAR 2023 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -867,14 +867,14 @@ LaTeX Font Info:    ... okay on input line 36.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 512.14963pt, 28.45274pt)
+* h-part:(L,W,R)=(42.67912pt, 526.376pt, 28.45274pt)
 * v-part:(T,H,B)=(56.9055pt, 702.78308pt, 85.35826pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=512.14963pt
+* \textwidth=526.376pt
 * \textheight=702.78308pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -941,164 +941,165 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
 <0.png, id=11, 560.0925pt x 180.675pt>
 File: 0.png Graphic file (type png)
 <use 0.png>
-Package pdftex.def Info: 0.png  used on input line 85.
+Package pdftex.def Info: 0.png  used on input line 84.
 (pdftex.def)             Requested size: 392.06207pt x 126.47162pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--99
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
 
  []
 
 [2 <./0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 <2.png, id=21, 356.532pt x 206.57175pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 104.
-(pdftex.def)             Requested size: 204.85672pt x 118.69586pt.
+Package pdftex.def Info: 2.png  used on input line 103.
+(pdftex.def)             Requested size: 210.54718pt x 121.99289pt.
 
-Underfull \hbox (badness 1264) in paragraph at lines 108--111
+Underfull \hbox (badness 3396) in paragraph at lines 107--110
 [][]\T2A/cmr/m/n/12 Для вы-кла-док ни-же нам по-тре-бу-ет-ся
  []
 
 
+Underfull \hbox (badness 1127) in paragraph at lines 107--110
+\T2A/cmr/m/it/12 рас-смат-ри-вать как центр вто-рич-но-го воз-
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 107--110
+\T2A/cmr/m/n/12 Теперь рас-смот-рим пер-вое при-ме-не-ние это-
+ []
+
+
 Package wrapfig Warning: Collision between wrapping environments on input line 
-112.
+111.
 
 <1.png, id=22, 207.174pt x 183.68625pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 114.
-(pdftex.def)             Requested size: 153.64644pt x 136.22557pt.
-
-Underfull \hbox (badness 2111) in paragraph at lines 116--116
-[]\T2A/cmr/m/n/12 Рис. 3: К фа-зо-вым со-от-
- []
-
-
-Underfull \hbox (badness 2343) in paragraph at lines 116--116
-\T2A/cmr/m/n/12 но-ше-ни-ям при ди-фрак-ции
- []
-
+Package pdftex.def Info: 1.png  used on input line 113.
+(pdftex.def)             Requested size: 157.9144pt x 140.01219pt.
 <3.png, id=23, 348.70274pt x 112.62074pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
-Package pdftex.def Info: 3.png  used on input line 140.
-(pdftex.def)             Requested size: 358.50317pt x 115.78928pt.
+Package pdftex.def Info: 3.png  used on input line 139.
+(pdftex.def)             Requested size: 368.4616pt x 119.00621pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3 <./2.png> <./1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
 <4.png, id=28, 361.95226pt x 113.82526pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
-Package pdftex.def Info: 4.png  used on input line 162.
-(pdftex.def)             Requested size: 358.50317pt x 112.74464pt.
+Package pdftex.def Info: 4.png  used on input line 161.
+(pdftex.def)             Requested size: 368.4616pt x 115.87616pt.
 [4 <./3.png> <./4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
 <5.png, id=32, 360.1455pt x 125.87025pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
-Package pdftex.def Info: 5.png  used on input line 186.
-(pdftex.def)             Requested size: 409.72125pt x 143.20355pt.
+Package pdftex.def Info: 5.png  used on input line 185.
+(pdftex.def)             Requested size: 421.1024pt x 147.18115pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--199
+Underfull \hbox (badness 10000) in paragraph at lines 196--198
 
  []
 
 [5 <./5.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
  []
 
-<fraungofer1.png, id=36, 462.528pt x 346.896pt>
+[6]
+<fraungofer1.png, id=40, 462.528pt x 346.896pt>
 File: fraungofer1.png Graphic file (type png)
 <use fraungofer1.png>
-Package pdftex.def Info: fraungofer1.png  used on input line 246.
+Package pdftex.def Info: fraungofer1.png  used on input line 245.
 (pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 
  []
 
 [7 <./fraungofer1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
 
@@ -1106,7 +1107,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--278
 Here is how much of TeX's memory you used:
  26471 strings out of 478582
  655584 string characters out of 2854162
- 1068519 words of memory out of 3000000
+ 1068522 words of memory out of 3000000
  44220 multiletter control sequences out of 15000+600000
  478784 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1122,7 +1123,7 @@ rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb>
-Output written on lab_4-3-1.pdf (8 pages, 298019 bytes).
+Output written on lab_4-3-1.pdf (8 pages, 297999 bytes).
 PDF statistics:
  296 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
