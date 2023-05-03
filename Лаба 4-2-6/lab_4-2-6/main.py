@@ -4,7 +4,6 @@ import matplotlib
 import numpy as np
 
 matplotlib.use('TkAgg')
-
 x = [20, 40, 60, 80]
 y = [0.019, 0.033, 0.047, 0.061]
 x = [elem / 1000 for elem in x]
