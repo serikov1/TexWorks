@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2023.9.17)  15 OCT 2023 20:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2023.9.17)  9 OCT 2023 16:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./lab_5-2-1.tex
-(lab_5-2-1.tex
+**./mosli.tex
+(mosli.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -838,26 +838,25 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
 \l__pdf_internal_box=\box73
-)
-(lab_5-2-1.aux)
-\openout1 = `lab_5-2-1.aux'.
+) (mosli.aux)
+\openout1 = `mosli.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -893,7 +892,7 @@ LaTeX Font Info:    ... okay on input line 36.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 36.
+LaTeX Info: Redefining \th on input line 35.
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count317
@@ -919,7 +918,7 @@ Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 
  []
 
@@ -936,106 +935,70 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
 
  []
 
-<1.png, id=11, 218.0145pt x 172.84575pt>
-File: 1.png Graphic file (type png)
-<use 1.png>
-Package pdftex.def Info: 1.png  used on input line 82.
-(pdftex.def)             Requested size: 315.82881pt x 250.40889pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
-<ust.png, id=13, 317.38576pt x 298.716pt>
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+<ust.png, id=20, 301.72725pt x 251.13824pt>
 File: ust.png Graphic file (type png)
 <use ust.png>
-Package pdftex.def Info: ust.png  used on input line 95.
-(pdftex.def)             Requested size: 315.82881pt x 297.25668pt.
-[2 <./1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Package pdftex.def Info: ust.png  used on input line 177.
+(pdftex.def)             Requested size: 331.90099pt x 276.25293pt.
+[2] [3 <./ust.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
-<4v_.jpg, id=18, 961.5925pt x 817.0525pt>
-File: 4v_.jpg Graphic file (type jpg)
-<use 4v_.jpg>
-Package pdftex.def Info: 4v_.jpg  used on input line 108.
-(pdftex.def)             Requested size: 315.82881pt x 268.3565pt.
-[3 <./ust.png>]
-<6v_.jpg, id=23, 961.5925pt x 769.87625pt>
-File: 6v_.jpg Graphic file (type jpg)
-<use 6v_.jpg>
-Package pdftex.def Info: 6v_.jpg  used on input line 114.
-(pdftex.def)             Requested size: 315.82881pt x 252.86171pt.
-<8v_.jpg, id=24, 961.5925pt x 786.94pt>
-File: 8v_.jpg Graphic file (type jpg)
-<use 8v_.jpg>
-Package pdftex.def Info: 8v_.jpg  used on input line 120.
-(pdftex.def)             Requested size: 315.82881pt x 258.46622pt.
- [4 <./4v_.jpg> <./6v_.jpg>] [5 <./8v_.jpg>] [6] [7]
-<4v.jpg, id=46, 154.176pt x 101.9007pt>
-File: 4v.jpg Graphic file (type jpg)
-<use 4v.jpg>
-Package pdftex.def Info: 4v.jpg  used on input line 203.
-(pdftex.def)             Requested size: 526.376pt x 348.01573pt.
-<6v.jpg, id=47, 154.176pt x 101.9007pt>
-File: 6v.jpg Graphic file (type jpg)
-<use 6v.jpg>
-Package pdftex.def Info: 6v.jpg  used on input line 209.
-(pdftex.def)             Requested size: 526.376pt x 348.01573pt.
- [8 <./4v.jpg>]
-<8v.jpg, id=51, 154.176pt x 102.1416pt>
-File: 8v.jpg Graphic file (type jpg)
-<use 8v.jpg>
-Package pdftex.def Info: 8v.jpg  used on input line 215.
-(pdftex.def)             Requested size: 526.376pt x 348.83849pt.
- [9 <./6v.jpg>] [10 <./8v.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
-
- []
-
-<E_ion.jpg, id=58, 542.025pt x 153.57375pt>
-File: E_ion.jpg Graphic file (type jpg)
-<use E_ion.jpg>
-Package pdftex.def Info: E_ion.jpg  used on input line 262.
-(pdftex.def)             Requested size: 421.1024pt x 119.31601pt.
-[11] [12 <./E_ion.jpg>] (lab_5-2-1.aux) ) 
+[4] (mosli.aux) ) 
 Here is how much of TeX's memory you used:
- 26559 strings out of 478582
- 656814 string characters out of 2854159
- 1107522 words of memory out of 3000000
- 44313 multiletter control sequences out of 15000+600000
- 477914 words of font info for 51 fonts, out of 8000000 for 9000
+ 26462 strings out of 478582
+ 655667 string characters out of 2854159
+ 1063518 words of memory out of 3000000
+ 44218 multiletter control sequences out of 15000+600000
+ 477515 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,8n,103p,1271b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Admin\AppData\Local\MiKTeX\
-fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Admin\AppData\Local\MiK
-TeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Admin\AppData\Local
-\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\L
-ocal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
-ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on lab_5-2-1.pdf (12 pages, 1227265 bytes).
+ 99i,7n,103p,807b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\tcrm1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
+/lh-t2a/dpi600\lati1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/l
+jfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/
+pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
+s/symbols/msbm10.pfb>
+Output written on mosli.pdf (5 pages, 178939 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
+ 260 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
