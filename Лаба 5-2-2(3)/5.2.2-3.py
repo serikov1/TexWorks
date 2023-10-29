@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
-from matplotlib.ticker import (MultipleLocator, FormatStrFormatter,
-AutoMinorLocator)
+from matplotlib.ticker import (MultipleLocator, FormatStrFormatter, AutoMinorLocator)
 import numpy as np
 # import pandas as pd
 from scipy import interpolate
@@ -88,7 +87,12 @@ R = d[-1]
 xh = np.linspace(L, R, 10000)
 aprox = [234 * np.exp(fi / 980) + 3740 for fi in xh]
 
-cubic = interpolate.interp1d(d, l, kind="cubic")
+d0 = 4028
+a0 = 2210
+c = 6811400
+y_g = [a0 + c/(d0 - d) for d in xh]
+
+cubic = interpolate.interp1d(xh, y_g, kind="cubic")
 y_cubic = cubic(xh)
 H = [2482, 1470, 822, 400]
 l_h = cubic(H)
@@ -155,8 +159,11 @@ ax.grid(which="minor", linestyle="--", color="gray", linewidth=0.5) #минор�
 
 
 ax.plot(d, l,"r.", markersize=8, label = 'Градуировка')
-ax.plot(xh, y_cubic,"b", markersize=1, label = 'Кубическая интерполяция')
-ax.plot(xh, aprox,"g", markersize=1, label = 'Аппроксимация f(x) = $234\\cdot exp(x/ 980) + 3740$' )
+# ax.plot(xh, y_cubic,"b", markersize=1, label = 'Кубическая интерполяция')
+# ax.plot(xh, aprox,"g", markersize=1, label = 'Аппроксимация f(x) = $234\\cdot exp(x/ 980) + 3740$' )
+
+ax.plot(xh, y_g,"b", markersize=1, label = 'Гартмана интерполяция')
+
 #ax.plot(x3, y3,"g.", markersize=8, label = 'Ток на образце 0.6 А' )
 #ax.plot(x4, y4,"y.", markersize=8, label = 'Ток на образце 0.8 А')
 #ax.plot(x5, y5,"k.", markersize=8, label = 'Ток на образце 1.0 А' )
