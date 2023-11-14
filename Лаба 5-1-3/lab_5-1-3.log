@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2023.10.17)  27 OCT 2023 23:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2023.10.17)  12 NOV 2023 22:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -919,16 +919,16 @@ Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--55
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -936,75 +936,75 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 <compare.png, id=23, 229.45724pt x 169.8345pt>
 File: compare.png Graphic file (type png)
 <use compare.png>
-Package pdftex.def Info: compare.png  used on input line 145.
+Package pdftex.def Info: compare.png  used on input line 146.
 (pdftex.def)             Requested size: 315.82881pt x 233.78099pt.
 [3 <./compare.png>]
 <ust1.png, id=30, 446.8695pt x 157.7895pt>
 File: ust1.png Graphic file (type png)
 <use ust1.png>
-Package pdftex.def Info: ust1.png  used on input line 156.
+Package pdftex.def Info: ust1.png  used on input line 157.
 (pdftex.def)             Requested size: 526.376pt x 185.88422pt.
 <ust.png, id=31, 224.037pt x 111.41624pt>
 File: ust.png Graphic file (type png)
 <use ust.png>
-Package pdftex.def Info: ust.png  used on input line 162.
+Package pdftex.def Info: ust.png  used on input line 163.
 (pdftex.def)             Requested size: 315.82881pt x 157.06802pt.
  [4 <./ust1.png> <./ust.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 169--170
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 
  []
 
 <2.519.jpeg, id=37, 963.6pt x 1284.8pt>
 File: 2.519.jpeg Graphic file (type jpg)
 <use 2.519.jpeg>
-Package pdftex.def Info: 2.519.jpeg  used on input line 177.
+Package pdftex.def Info: 2.519.jpeg  used on input line 178.
 (pdftex.def)             Requested size: 315.82881pt x 421.10345pt.
 <2.794.jpeg, id=38, 963.6pt x 1284.8pt>
 File: 2.794.jpeg Graphic file (type jpg)
 <use 2.794.jpeg>
-Package pdftex.def Info: 2.794.jpeg  used on input line 183.
+Package pdftex.def Info: 2.794.jpeg  used on input line 184.
 (pdftex.def)             Requested size: 315.82881pt x 421.10345pt.
 [5 <./2.519.jpeg>] [6 <./2.794.jpeg>] [7]
 <1.jpg, id=49, 154.176pt x 107.9232pt>
 File: 1.jpg Graphic file (type jpg)
 <use 1.jpg>
-Package pdftex.def Info: 1.jpg  used on input line 281.
+Package pdftex.def Info: 1.jpg  used on input line 282.
 (pdftex.def)             Requested size: 526.376pt x 368.58406pt.
  [8]
 <2.jpg, id=55, 154.176pt x 107.9232pt>
 File: 2.jpg Graphic file (type jpg)
 <use 2.jpg>
-Package pdftex.def Info: 2.jpg  used on input line 309.
+Package pdftex.def Info: 2.jpg  used on input line 310.
 (pdftex.def)             Requested size: 526.376pt x 368.58406pt.
  [9 <./1.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 313--314
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
  []
 
@@ -1032,7 +1032,7 @@ fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msb
 m10.pfb>
-Output written on lab_5-1-3.pdf (10 pages, 849298 bytes).
+Output written on lab_5-1-3.pdf (10 pages, 849307 bytes).
 PDF statistics:
  296 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
