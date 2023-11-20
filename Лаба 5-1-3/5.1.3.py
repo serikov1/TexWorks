@@ -176,19 +176,19 @@ ax.grid(which="minor", linestyle="--", color="gray", linewidth=0.5) #минор�
 #создаём сетку для графика
 
 
-ax.plot(V_k1, I_a1,"r.", markersize=1, label = '$V_\\text{накал} = 2.774В$')
-ax.plot(xh, y_cubic,"b", markersize=1, label = 'Кубическая интерполяция')
-ax.plot(V_k2, I_a2,"g.", markersize=1, label = '$V_\\text{накал} = 2.516В$')
-ax.plot(xh2, y_cubic2,"y", markersize=1, label = 'Кубическая интерполяция')
-ax.plot([1.75, 1.75], [0, 1.77],"b", markersize=8)
-ax.plot([1.85, 1.85], [0, 1.65],"y", markersize=8)
-ax.plot([7.1, 7.1], [0, 0.59],"b", markersize=8)
-ax.plot([7.2, 7.2], [0, 0.28],"y", markersize=8)
-# ax.plot(V_k1, w,"m.", markersize=1, label = 'вероятность рассеяния' )
-# ax.plot(xh, y_cubic_w,"m", markersize=1, label = 'Кубическая интерполяция')
-#
-# ax.plot(V_k2, w2,"g.", markersize=1, label = 'вероятность рассеяния' )
-# ax.plot(xh2, y_cubic_w2,"g", markersize=1, label = 'Кубическая интерполяция')
+# ax.plot(V_k1, I_a1,"r.", markersize=1, label = '$V_\\text{накал} = 2.774В$')
+# ax.plot(xh, y_cubic,"b", markersize=1, label = 'Кубическая интерполяция')
+# ax.plot(V_k2, I_a2,"g.", markersize=1, label = '$V_\\text{накал} = 2.516В$')
+# ax.plot(xh2, y_cubic2,"y", markersize=1, label = 'Кубическая интерполяция')
+# ax.plot([1.75, 1.75], [0, 1.77],"b", markersize=8)
+# ax.plot([1.85, 1.85], [0, 1.65],"y", markersize=8)
+# ax.plot([7.1, 7.1], [0, 0.59],"b", markersize=8)
+# ax.plot([7.2, 7.2], [0, 0.28],"y", markersize=8)
+ax.plot(V_k1, w,"m.", markersize=1, label = '$V_\\text{накал} = 2.774В$' )
+ax.plot(xh, y_cubic_w,"m", markersize=1, label = 'Кубическая интерполяция')
+
+ax.plot(V_k2, w2,"g.", markersize=1, label = '$V_\\text{накал} = 2.516В$' )
+ax.plot(xh2, y_cubic_w2,"g", markersize=1, label = 'Кубическая интерполяция')
 
 #строительство графика на рисунке
 # ax.plot(tochki1, p1(tochki1), 'b--', label = '')
@@ -212,25 +212,25 @@ ax.tick_params(which='major', length=10, width=1)
 ax.tick_params(which='minor', length=5, width=1)
 #строительство минорной и мажорной сетки
 
-ax.errorbar(V_k1, I_a1,
-xerr=V_k1_eror,
-yerr=I_a1_eror,
-fmt='+', color='red', markersize=5)
-
-ax.errorbar(V_k2, I_a2,
-xerr=V_k2_eror,
-yerr=I_a2_eror,
-fmt='+', color='green', markersize=5)
-
-# ax.errorbar(V_k1, w,
+# ax.errorbar(V_k1, I_a1,
 # xerr=V_k1_eror,
-# yerr=w_eror,
-# fmt='+', color='r', markersize=5)
+# yerr=I_a1_eror,
+# fmt='+', color='red', markersize=5)
 #
-# ax.errorbar(V_k2, w2,
+# ax.errorbar(V_k2, I_a2,
 # xerr=V_k2_eror,
-# yerr=w_eror2,
-# fmt='+', color='r', markersize=5)
+# yerr=I_a2_eror,
+# fmt='+', color='green', markersize=5)
+
+ax.errorbar(V_k1, w,
+xerr=V_k1_eror,
+yerr=w_eror,
+fmt='+', color='r', markersize=5)
+
+ax.errorbar(V_k2, w2,
+xerr=V_k2_eror,
+yerr=w_eror2,
+fmt='+', color='r', markersize=5)
 
 #ax.errorbar(x4, y4,
 #xerr=xerr4,
@@ -255,4 +255,4 @@ fmt='+', color='green', markersize=5)
 if proverca == 1:
     plt.show()
 else:
-    plt.savefig("I(V)")
+    plt.savefig("2")
