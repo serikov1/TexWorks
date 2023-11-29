@@ -1,0 +1,179 @@
+\documentclass[a4paper, 12pt]{article}%тип документа
+
+%отступы
+\usepackage[left=1.5cm,right=1cm,top=2cm,bottom=3cm,bindingoffset=0cm]{geometry}
+\setlength{\parindent}{5ex}
+
+%Русский язык
+\usepackage[T2A]{fontenc} %кодировка
+\usepackage[utf8]{inputenc} %кодировка исходного кода
+\usepackage[english,russian]{babel} %локализация и переносы
+
+%Вставка картинок
+\usepackage{graphicx}
+\graphicspath{{pictures/}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg,}
+\usepackage{wrapfig}
+
+%Графики
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.9}
+
+%Математика
+\usepackage{amsmath, amsfonts, amssymb, amsthm, mathtools}
+
+%Таблицы
+\usepackage{longtable} 
+\usepackage{float}
+
+%Римские цифры
+\newcommand{\RomanNumeralCaps}[1]{\uppercase\expandafter{\romannumeral#1}}
+
+\usepackage{multirow}
+
+
+
+\begin{document}
+	\begin{titlepage}
+		\begin{center}
+			\textsc{Федеральное государственное автономное образовательное учреждение высшего образования«Московский физико-технический институт (национальный исследовательский университет)»\\[5mm]
+			}
+			
+			\vfill
+			
+			\textbf{Решение задачи минимизация функционала.
+				\\[50mm]
+			}
+			
+		\end{center}
+		
+		\hfill
+		\begin{minipage}{.5\textwidth}
+			Выполнили студенты:\\[2mm]
+			Сериков Василий Романович\\[2mm]
+			Сериков Алексей Романович\\[2mm]
+			Данилов Иван Владимирович\\[2mm]
+			группа: Б03-102\\[5mm]
+			
+		\end{minipage}
+		\vfill
+		\begin{center}
+			Москва, 2023 г.
+		\end{center}
+		
+	\end{titlepage}
+	
+	\newpage
+	\setcounter{page}{2}
+	
+	\textbf{Цель работы: }\\
+	
+	Решить краевую задачу, описывающую стационарный процесс.\\
+	
+	\textbf{Теория: }\\
+	
+	Имеем краевую задачу:
+	$$
+	L u=-\operatorname{div}(k \operatorname{grad} u)+q u=\nabla \kappa \nabla u+q u=f
+	$$
+	
+	С граничными условиями Неймана и Дирихле:
+	$$
+	\begin{gathered}
+		\left.u\right|_{\Gamma_D}=\Phi \\
+		-\vec{n} \cdot \kappa \nabla u+\left.\alpha u\right|_{\Gamma_\kappa}=\Psi
+	\end{gathered}
+	$$
+	
+	Где, заданная область $\Omega=(0 ; 1)$ х $(0 ; 1)$, $\mathrm{f}-$ непрерывна в $\Omega$, $\kappa=\kappa^T>0$, решение ищем, как непрерывную функцию в $C^2(\Omega)$.
+	
+	А для граничных условий выполняется следующие:
+	$$
+	\begin{aligned}
+		& \Gamma_D=\overline{\Gamma_D} \subset \partial \Omega, \\
+		& \Gamma_N=\partial \Omega-\Gamma_D ;
+	\end{aligned}
+	$$
+	$\mathrm{L}$ - положительно определенный оператор, $L=L^*>0,(L u, v)=(u, L v)$, тогда определено скалярное произведение:
+	$$
+	[u, v]=(L u, v)=(u, L v),
+	$$
+	
+	тогда для задачи (1) в области $\Omega$ верно следующие:
+	$$
+	(L u, v)=(f, v)
+	$$
+	
+	Определим функционал J(u), как:
+	$$
+	J(u)=\frac{1}{2}(L u, u)-(f, u)
+	$$
+	
+	Тогда верно следующие:
+	$$
+	\nabla J(u)=L u-f=0
+	$$
+	
+	Таким образом, задача свелась к минимизации функционала J(u)
+
+	%Краевая задача вида для уравнения эллиптического типа, при граничном условии третьего рода:
+%	$$
+%	\begin{gathered}
+	%	L u=-\operatorname{div}(\kappa \operatorname{grad} u)+q u=-\nabla \kappa \nabla u+q u=f \\
+%		\left.u\right|_{\Gamma_0}=\Phi \\
+%		-\vec{n} \cdot \kappa \nabla u+\left.\alpha u\right|_{\Gamma_{\mathrm{n}}}=\Psi
+%	\end{gathered}
+%	$$
+	 
+	Домножаем обе части на u и переходим к интегрированию по заданной области:
+	$$
+	-\int_{\Omega} u \nabla \cdot \kappa \nabla u d x+\int_{\Omega} q u^2 d x
+	$$
+	
+	При этом делаем следующую нормировку:
+	$$
+	|u|=\sqrt{(L u, u)}=[u, u]^{1 / 2}
+	$$
+	
+	Тогда выполняется следующие:
+	$$
+	-\int_{\Omega} u \nabla \cdot \kappa \nabla u d x+\int_{\Omega} q u^2 d x=\int_{\Omega}|\nabla u|^2 d x
+	$$
+	
+	После упрощения получим:
+	$$
+	\int_{\Omega}\left(\left|\kappa^{1 / 2} \nabla u\right|^2+q u^2\right) d x=\int_{\Omega}|\nabla u|^2 d x
+	$$
+
+	Если есть ограниченная область $\Omega$ с липшицевой границей и коэффициентом $a_{\alpha}$ в дифференциальном операторе второго порядка А из класса $C^{|\alpha|}(\bar{\Omega})$, то для произвольных функций $u, v$ из $C_2^1(\Omega)$ справедлива формула Грина:
+	$$
+	\int_{\Omega}\left(v A u-u A^T v\right) d x=\int_{\partial \Omega}\left(a_0\left(v \frac{\partial u}{\partial N}-u \frac{\partial v}{\partial N}\right)+a_* u v\right) d \Gamma,
+	$$
+	
+	$$
+	\begin{gathered}
+		a_0=\left(\sum\left(\sum a^{i j} n_j\right)^2\right)^{1 / 2}, \\
+		a_*=-\sum a^{i j} n_j,
+	\end{gathered}
+	$$
+	
+	Тогда, переходя к границе Неймана $\partial \Omega \rightarrow \Gamma_N$ :
+	$$
+	\int_{\Omega}|\nabla u|^2 d x=\int_{\Omega}\left(\left|\kappa^{1 / 2} \nabla u\right|^2+q u^2\right) d x+\int_{\Gamma_s} \alpha u^2 d s-\int_{\Gamma_\kappa} \Psi u d s
+	$$
+
+
+	1)Область $\bar{\Omega}=\Omega+\Gamma$ разбивают на $\mathrm{N}$ подобластей, называемых конечными элементами, так, что: $\Omega=\cup \Omega_k, \Gamma=\cup \Gamma_k, k \in[1, N]$.\\
+	2)В каждом конечном элементе $\overline{\Omega_k}$, выбирается система узлов с нумерацией, в которых значения искомой функции ищутся.\\
+	3)Каждому узлу приписывается базисная функция, такая что в этом узле она равна единице, а в остальных нумерованных узлах - нулю : $\phi_k\left(x_{\mathrm{m}}\right)=\delta_{\mathrm{km}}$. Число базисных функций равно числу узлов.\\
+	4)Решение задачи строится в виде линейных комбинаций базисных функций:
+	$$
+	u=\sum \alpha_k \phi_k \text {. }
+	$$\\
+	5)Это решение подставляется в задачу, решением задачи является некоторая функциональная невязка.\\
+	6)Функциональная невязка минимизируется\\
+	
+	
+	
+	
+	\end{document}
