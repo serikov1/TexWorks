@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2023.9.17)  9 OCT 2023 16:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2023.10.17)  10 JAN 2024 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -974,31 +974,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
-[4] (mosli.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--200
+
+ []
+
+[4]
+<ERy(z).png, id=38, 722.7pt x 505.89pt>
+File: ERy(z).png Graphic file (type png)
+<use ERy(z).png>
+Package pdftex.def Info: ERy(z).png  used on input line 277.
+(pdftex.def)             Requested size: 578.16078pt x 404.71254pt.
+
+Overfull \hbox (51.78477pt too wide) in paragraph at lines 277--278
+ [] 
+ []
+
+[5 <./ERy(z).png>] (mosli.aux) ) 
 Here is how much of TeX's memory you used:
- 26462 strings out of 478582
- 655667 string characters out of 2854159
- 1063518 words of memory out of 3000000
- 44218 multiletter control sequences out of 15000+600000
+ 26470 strings out of 478582
+ 655773 string characters out of 2854158
+ 1122518 words of memory out of 3000000
+ 44225 multiletter control sequences out of 15000+600000
  477515 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,7n,103p,807b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
-/ec/dpi600\tcrm1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
-/lh-t2a/dpi600\lati1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/l
-jfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/
-pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pf
-b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
- Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
-s/symbols/msbm10.pfb>
-Output written on mosli.pdf (5 pages, 178939 bytes).
+ 99i,7n,103p,845b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX
+\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Admin\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/m
+sbm10.pfb>
+Output written on mosli.pdf (6 pages, 725115 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
+ 277 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

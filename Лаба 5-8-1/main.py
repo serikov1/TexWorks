@@ -107,7 +107,7 @@ ax.grid(which="minor", linestyle="--", color="gray", linewidth=0.5)  # мино�
 # создаём сетку для графика
 
 
-ax.plot(lnT, lnW, "r.", markersize=8, label='n = {}'.format(n))
+ax.plot(lnT, lnW, "r.", markersize=8, label='n$\\alpha$ = {}'.format(n))
 # строительство графика на рисунке
 ax.plot(tochki1, p1(tochki1), 'b--', label='')
 

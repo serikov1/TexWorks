@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2023.9.17)  22 SEP 2023 00:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2023.10.17)  19 DEC 2023 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -983,8 +983,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--82
 [2 <./krilov.png>] (second lecture.aux) ) 
 Here is how much of TeX's memory you used:
  26454 strings out of 478582
- 655795 string characters out of 2854159
- 1072527 words of memory out of 3000000
+ 655795 string characters out of 2854158
+ 1072529 words of memory out of 3000000
  44213 multiletter control sequences out of 15000+600000
  475525 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
