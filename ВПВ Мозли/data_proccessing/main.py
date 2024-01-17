@@ -24,6 +24,6 @@
 # print("sqr_E_ll_Ry: " & sqr_E_ll_Ry)
 # print("sqr_E_lb_Ry: " & sqr_E_lb_Ry)
 
-[ ]
-[ ]
-[]
+
+ &
+ 

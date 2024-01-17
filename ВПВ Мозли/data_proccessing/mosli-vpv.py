@@ -33,10 +33,12 @@ f_L_l = [pow(lamda / Ry, 0.5) for lamda in E_L_l]
 E_L_b = [h * c / (e * lamda * pow(10, -13)) for lamda in L_b]
 f_L_b = [pow(lamda / Ry, 0.5) for lamda in E_L_b]
 
+E_L_l_rev = E_L_l[::-1]
+E_L_b_rev = E_L_b[::-1]
 print(E_K_l)
 print(E_K_b)
-print(E_L_l)
-print(E_L_b)
+print(E_L_l_rev)
+print(E_L_b_rev)
 
 # k1 = (f_K_l[-1] - f_K_l[0])/(z_k[-1] - z_k[0])
 # k2 = (f_K_b[-2] - f_K_b[0])/(z_k[-2] - z_k[0])
