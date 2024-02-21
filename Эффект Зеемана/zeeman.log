@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2023.10.17)  15 FEB 2024 22:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2024.2.17)  21 FEB 2024 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1025,24 +1025,27 @@ File: ust.png Graphic file (type png)
 Package pdftex.def Info: ust.png  used on input line 106.
 (pdftex.def)             Requested size: 526.376pt x 337.18379pt.
 [2 <./ust.png>] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
 <graph.png, id=32, 729.32475pt x 457.71pt>
 File: graph.png Graphic file (type png)
 <use graph.png>
-Package pdftex.def Info: graph.png  used on input line 190.
+Package pdftex.def Info: graph.png  used on input line 192.
 (pdftex.def)             Requested size: 526.376pt x 330.34714pt.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
 
 [4] [5 <./graph.png>] (zeeman.aux) ) 
 Here is how much of TeX's memory you used:
  27833 strings out of 478582
- 681130 string characters out of 2854158
+ 681130 string characters out of 2854159
  1064519 words of memory out of 3000000
  45579 multiletter control sequences out of 15000+600000
  478559 words of font info for 54 fonts, out of 8000000 for 9000
@@ -1060,9 +1063,9 @@ b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
  Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmsy8.pfb>
-Output written on zeeman.pdf (6 pages, 1485040 bytes).
+Output written on zeeman.pdf (6 pages, 1485537 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
+ 243 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
