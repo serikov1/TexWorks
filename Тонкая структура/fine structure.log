@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2024.2.17)  28 FEB 2024 20:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2024.2.17)  28 FEB 2024 21:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./lab_5-5-1.tex
-(lab_5-5-1.tex
+**"./fine structure.tex"
+(fine structure.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -839,25 +839,25 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
 \l__pdf_internal_box=\box73
 )
-(lab_5-5-1.aux)
-\openout1 = `lab_5-5-1.aux'.
+(fine structure.aux)
+\openout1 = `"fine structure.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -893,7 +893,7 @@ LaTeX Font Info:    ... okay on input line 36.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 36.
+LaTeX Info: Redefining \th on input line 35.
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count317
@@ -918,22 +918,22 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
-
- []
-
-[1
+) [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 67--68
@@ -950,91 +950,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-
- []
-
-<1.png, id=12, 307.64937pt x 256.45813pt>
-File: 1.png Graphic file (type png)
-<use 1.png>
-Package pdftex.def Info: 1.png  used on input line 112.
-(pdftex.def)             Requested size: 315.82881pt x 263.2939pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 121--123
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
+<ust.jpeg, id=22, 994.71625pt x 706.64pt>
+File: ust.jpeg Graphic file (type jpg)
+<use ust.jpeg>
+Package pdftex.def Info: ust.jpeg  used on input line 127.
+(pdftex.def)             Requested size: 526.376pt x 373.93517pt.
+<F-P.jpg, id=23, 698.61pt x 1040.88875pt>
+File: F-P.jpg Graphic file (type jpg)
+<use F-P.jpg>
+Package pdftex.def Info: F-P.jpg  used on input line 132.
+(pdftex.def)             Requested size: 526.376pt x 784.31767pt.
+<levels.jpeg, id=24, 833.1125pt x 554.07pt>
+File: levels.jpeg Graphic file (type jpg)
+<use levels.jpeg>
+Package pdftex.def Info: levels.jpeg  used on input line 136.
+(pdftex.def)             Requested size: 526.376pt x 350.08893pt.
+[2 <./ust.jpeg>]
+Overfull \vbox (81.53459pt too high) has occurred while \output is active []
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
- []
-
-<2.png, id=24, 328.72812pt x 140.525pt>
-File: 2.png Graphic file (type png)
-<use 2.png>
-Package pdftex.def Info: 2.png  used on input line 128.
-(pdftex.def)             Requested size: 368.4616pt x 157.51341pt.
-[3 <./1.png> <./2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 135--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
-
- []
-
-[4] [5] [6]
-<graph.png, id=42, 722.7pt x 505.89pt>
-File: graph.png Graphic file (type png)
-<use graph.png>
-Package pdftex.def Info: graph.png  used on input line 249.
-(pdftex.def)             Requested size: 505.88655pt x 354.12057pt.
- [7 <./graph.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
+[3 <./F-P.jpg>] [4 <./levels.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--272
+<result.jpg, id=34, 762.85pt x 577.15625pt>
+File: result.jpg Graphic file (type jpg)
+<use result.jpg>
+Package pdftex.def Info: result.jpg  used on input line 150.
+(pdftex.def)             Requested size: 421.1024pt x 318.59059pt.
+<result_1.jpg, id=35, 705.63625pt x 498.86375pt>
+File: result_1.jpg Graphic file (type jpg)
+<use result_1.jpg>
+Package pdftex.def Info: result_1.jpg  used on input line 156.
+(pdftex.def)             Requested size: 421.1024pt x 297.7068pt.
+[5 <./result.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
-
- []
-
-[8] (lab_5-5-1.aux) ) 
+[6 <./result_1.jpg>] [7] (fine structure.aux) ) 
 Here is how much of TeX's memory you used:
- 26492 strings out of 478582
- 655944 string characters out of 2854159
- 1098522 words of memory out of 3000000
- 44244 multiletter control sequences out of 15000+600000
- 478559 words of font info for 54 fonts, out of 8000000 for 9000
+ 26487 strings out of 478582
+ 656204 string characters out of 2854159
+ 1062529 words of memory out of 3000000
+ 44238 multiletter control sequences out of 15000+600000
+ 477914 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,10n,103p,901b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\larm0600.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljf
-our/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk
-/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\font
-s/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program Files/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.
-pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progr
-am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb>
-Output written on lab_5-5-1.pdf (8 pages, 273875 bytes).
+ 99i,6n,103p,1296b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Admin\AppData\Local\M
+iKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Admin\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Admin\AppData
+\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Admin\App
+Data\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Program File
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Fi
+les/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "fine structure.pdf" (8 pages, 591622 bytes).
 PDF statistics:
- 306 PDF objects out of 1000 (max. 8388607)
+ 237 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

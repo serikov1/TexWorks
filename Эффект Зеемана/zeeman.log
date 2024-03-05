@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2024.2.17)  21 FEB 2024 15:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2024.2.17)  28 FEB 2024 20:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1038,16 +1038,21 @@ Package pdftex.def Info: graph.png  used on input line 192.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in alignment at lines 197--203
+[] [] [] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
 [4] [5 <./graph.png>] (zeeman.aux) ) 
 Here is how much of TeX's memory you used:
- 27833 strings out of 478582
- 681130 string characters out of 2854159
+ 27837 strings out of 478582
+ 681182 string characters out of 2854159
  1064519 words of memory out of 3000000
- 45579 multiletter control sequences out of 15000+600000
+ 45583 multiletter control sequences out of 15000+600000
  478559 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,16n,103p,2340b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1063,9 +1068,9 @@ b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
  Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmsy8.pfb>
-Output written on zeeman.pdf (6 pages, 1485537 bytes).
+Output written on zeeman.pdf (6 pages, 1486501 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
+ 244 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
