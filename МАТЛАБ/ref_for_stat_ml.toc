@@ -1,0 +1,10 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{3}{}%
+\contentsline {section}{\numberline {2}Обработка экспериментальных данных}{4}{}%
+\contentsline {section}{\numberline {3}Постановка эксперимента}{5}{}%
+\contentsline {section}{\numberline {4}Машинное обучение}{6}{}%
+\contentsline {section}{\numberline {5}Примеры применения SMLT}{8}{}%
+\contentsline {section}{\numberline {6}Дополнительные возможности}{11}{}%
+\contentsline {section}{\numberline {7}Рекомендации по использованию SMLT}{12}{}%
+\contentsline {section}{\numberline {8}Заключение}{13}{}%
+\contentsline {section}{\numberline {9}Список литературы}{13}{}%
